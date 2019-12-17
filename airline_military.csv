@@ -1,0 +1,642 @@
+Date,Time,Location,Operator,Flight #,Route,AC Type,Aboard,Aboard Passangers,Aboard Crew,Fatalities,Fatalities Passangers,Fatalities Crew,Ground
+1908-09-17,17:18,"Fort Myer, Virginia",Military - U.S. Army,,Demonstration,Wright Flyer III,2.0,1.0,1.0,1.0,1.0,0.0,0.0
+1912-07-12,06:30,"Atlantic City, New Jersey",Military - U.S. Navy,,Test flight,Dirigible,5.0,0.0,5.0,5.0,0.0,5.0,0.0
+1916-10-01,23:45,"Potters Bar, England",Military - German Navy,,,Zeppelin L-31 (airship),19.0,0.0,19.0,19.0,0.0,19.0,0.0
+1921-04-06,,"Point Cook, Australia",Military - Royal Australian Air Force,,,  	 Avro 504,2.0,0.0,0.0,2.0,0.0,0.0,0.0
+1921-08-24,17:40,"River Humber, England",Military - Royal Airship Works,,,Royal Airship Works ZR-2 (airship),46.0,0.0,46.0,46.0,0.0,46.0,1.0
+1923-12-23,02:30,Over the Mediterranean Sea,Military - French Navy,,Toulon - Algiers,Zeppelin Dixmunde (airship),52.0,,,52.0,,,0.0
+1925-09-03,05:30,"Caldwell, Ohio",Military - U.S. Navy,,"Lakehurst, NJ - S.t Louis, MO",Dirigible ZR-1 Shenandoah (airship),43.0,,,14.0,,,0.0
+1929-04-21,11:45,"San Diego, California",Maddux Airlines / Military - U.S.Army Air Force,,San Diego - Phoenix,Ford 5-AT-B Tri-Motor / B-PW-9D,6.0,3.0,3.0,6.0,3.0,3.0,0.0
+1930-10-05,02:05,"Near Beauvais, France",Military - British Air Ministry,,"Cardington, England - Karachi, Pakistan",Royal Airship Works R-101,54.0,,,48.0,,,0.0
+1936-01-14,," Tres Esquinas, Colombia",Military - Fuerza Aerea Colombiana,,,Junkers JU-52,16.0,13.0,3.0,13.0,10.0,3.0,0.0
+1938-02-02,20:40,"Off San Clemente Island, California",Military - U.S. Navy / Military - U.S. Navy,,Training,Consolidated PBY-2 / Consolidated PBY-2,14.0,0.0,14.0,11.0,0.0,11.0,0.0
+1939-05-08,12:00,"Guayaquil, Ecuador",Military - Ecuadorian Air Force,,,Curtiss-Wright C-14 Osprey,1.0,0.0,1.0,1.0,0.0,1.0,22.0
+1940-08-13,10:15,"Near Canberra, Australia",Military - Royal Australian Air Force,,Melbourne - Canberra,Lockheed Hudson A16-97,10.0,6.0,4.0,10.0,6.0,4.0,0.0
+1941-08-10,20:35,"Arran, Scotland",Military -Royal Air Force,,,Consolidated LB-30A Liberator,22.0,17.0,5.0,22.0,17.0,5.0,0.0
+1942-01-20,," Kupang, Indonesia",Military - Royal Australian Air Force,,,Lockheed Hudson,11.0,7.0,4.0,11.0,,4.0,0.0
+1942-03-03,,"Off Broome, Australia",Military - U.S. Army Air Force,, Broome - Kupang,Consolidated B-24 Liberator,21.0,19.0,2.0,20.0,18.0,2.0,0.0
+1942-07-01,12:00,"Near Premier, West Virginia",Military - U.S. Army Air Forces,,Battle Creek - Cincinnati - Florence,Douglas C-49E,21.0,19.0,2.0,21.0,19.0,2.0,0.0
+1942-07-07,,"Off Broken Head, Australia",Military - Royal Australian Air Force,,Horn Island - Amberley,Lockheed Hudson,10.0,0.0,10.0,10.0,0.0,10.0,0.0
+1942-07-20,,"Llanfair, England",Military - Royal Air Force,,Sydenham - Hendon,Lockheed Hudson,13.0,10.0,3.0,13.0,10.0,3.0,0.0
+1942-08-23,13:42,"Near Dunbeath, Scotland",Military - Royal Air Force,,Oban - Invergordon - Keflavik,Short Sunderland,15.0,11.0,4.0,14.0,10.0,4.0,0.0
+1942-10-01,09:30,"Near Coamo, Puerto Rico",Military - U.S. Army Air Forces,,Juana Díaz-Losey Field - San Juan,Douglas C-39-DO  (DC-2),22.0,17.0,5.0,22.0,17.0,5.0,0.0
+1942-10-23,17:15,"Palm Springs, California",American Airlines / Military - USAF,28,Palm Springs - New York City,Douglas DC-3 / Lockheed B-34,13.0,10.0,3.0,12.0,10.0,2.0,0.0
+1942-10-30,,Norway,Military - Royal Air Force,,,Handley Page HP-57 Halifax,10.0,7.0,3.0,10.0,7.0,3.0,0.0
+1943-01-15,,"Near Paramarino, Dutch Guyana",Military - U.S. Army Air Forces,,,Douglas C-54A,35.0,26.0,9.0,35.0,26.0,9.0,0.0
+1943-01-18,23:00,"Off the Brazilian coast,  Atlantic Ocean",Military - U.S. Army Air Forces,,"Accra, Ghana - Natal, Brazil",Consolidated C-87,26.0,20.0,6.0,26.0,20.0,6.0,0.0
+1943-03-27,05:15,"Archerfield Aerodrome, Queensland, Australia",Military - Royal Australian Air Force,,Brisbane - Sydney,Douglas C-47-DL,24.0,20.0,4.0,24.0,20.0,4.0,0.0
+1943-06-07,04:00,"Red Springs, North Carolina",Military - U.S. Army Air Forces,,Pope Field - Maxton,Douglas C-47A-DL,20.0,16.0,4.0,20.0,16.0,4.0,0.0
+1943-06-08,00:55," Noumea,  New Caledonia",Military - US Navy,,Noumea - Sydney,Douglas C-47 Skytrain (DC-3),23.0,3.0,20.0,23.0,3.0,20.0,0.0
+1943-06-14,06:00,"Near Mackay, OLD, Australia",Military - U.S. Army Air Forces,,Mackay - Port Moresby,B-17C Flying Fortress,41.0,35.0,6.0,40.0,34.0,6.0,0.0
+1943-08-01,15:00,"Ploesti, Romania",Military - U.S. Army Air Forces,,Bombing run,Consolidated B-24,10.0,0.0,10.0,10.0,0.0,10.0,63.0
+1943-08-07,05:20,"Off Townsville, Australia",Military - U.S. Air Force,,Townsville - Brisbane,Douglas C-47-DL,27.0,23.0,4.0,27.0,23.0,4.0,0.0
+1943-09-10,16:00,"Off Galveston, Texas",Military - U.S. Army Air Forces,,,Boeing B-17F / Boeing B-17F,22.0,0.0,22.0,22.0,0.0,22.0,0.0
+1943-09-20,08:50,"Near Maxton, North Carolina",Military - U.S. Army Air Forces,,Maxton - Godman,Douglas C-53D-DO,25.0,21.0,4.0,25.0,21.0,4.0,0.0
+1943-09-22,06:00,"Near Calcutta, India",Military - U.S. Army Air Forces,,,Douglas C-53,20.0,15.0,5.0,20.0,15.0,5.0,0.0
+1943-10-19,02:45,"St. Donat, Quebec, Canada",Military - Royal Canadian Air Force,,Gander - Mont-Joli,Consolidated B-24,24.0,20.0,4.0,24.0,20.0,4.0,0.0
+1943-10-22,20:20,"Columbus, Georgia",Military - U.S. Army Air Forces,,,Douglas C-47-DL,20.0,15.0,5.0,20.0,15.0,5.0,0.0
+1943-12-19,09:20,"Canal Creek, Australia",Military - U.S. Air Force,,Townsville - Rockhampton - Brisbane,Douglas C-47A-60-DL,31.0,27.0,4.0,31.0,27.0,4.0,0.0
+1943-12-29,15:00,"Lakeside, Utah",Military - U.S. Army Air Forces / Military - U.S. Army Air Forces,,Wendover Field - Pocatello AAB,Consolidated B-24 / Consolidated B-24,25.0,0.0,25.0,25.0,0.0,25.0,0.0
+1944-04-25,,"Montreal, Canada",Military - Royal Air Force,,"Montreal, Canada - European air base",Consolidated Liberator,16.0,11.0,5.0,16.0,11.0,5.0,0.0
+1944-06-06,01:15,"Barneville, France",Military - U.S. Army Air Forces,,,Douglas C-47A,22.0,18.0,4.0,22.0,18.0,4.0,0.0
+1944-06-06,02:00,"Flamanville, France",Military - U.S. Army Air Forces,,,Douglas C-47A,22.0,17.0,5.0,22.0,17.0,5.0,0.0
+1944-06-06,01:30,"Carentan, France",Military - U.S. Army Air Forces,,,Douglas C-47A-DL,22.0,18.0,4.0,22.0,18.0,4.0,0.0
+1944-07-11,16:40,"Portland, Maine",Military - U.S. Army,,Barksdale - Portland,Douglas A-26B Invader,2.0,0.0,2.0,2.0,0.0,2.0,19.0
+1944-07-23,,"Nineteen miles W of Kokoda, Papua New Guinea",Military - US Navy,,"Cairns or Mareeba, Australia - Los Negros Island",R4D-5,17.0,15.0,2.0,17.0,15.0,2.0,0.0
+1944-07-26,03:00,North Atlantic Ocean,Military - U.S. Army Air Forces,,"England - Long Island, N.Y.",Douglas C-54A-DO (DC-4),26.0,20.0,6.0,26.0,20.0,6.0,0.0
+1944-07-27,16:00,"Port Logan, Scotland",Military - U.S. Army Air Forces,,Bristol - Preswick,Douglas C-47A-DK,22.0,17.0,5.0,22.0,17.0,5.0,0.0
+1944-08-03,20:30,"Naper, Nebraska",Military - U.S. Army Air Forces,,"Bruning, NB - Pierre, SD",Douglas C-47A-DL,28.0,24.0,4.0,28.0,24.0,4.0,0.0
+1944-08-12,18:20,"Blythburgh, England",Military - U.S. Navy,-,,Consolidated PB4Y-1,2.0,0.0,2.0,2.0,0.0,2.0,0.0
+1944-08-23,10:45,"Freckelton, England",Military - U.S. Air Force,,,Consolidated B-24H,3.0,0.0,3.0,3.0,0.0,3.0,58.0
+1944-08-28,01:00,"Preswick, Scotland",Military - U.S. Army Air Forces,,Boston - Gander - Keflavik - Prestwick,Douglas C-54A-DC (DC-4),20.0,14.0,6.0,20.0,14.0,6.0,5.0
+1944-09-07,,"Near Mossman, Queensland, Australia",Military - Royal Netherlands East Indies Air Force,,Merauke -- Cairns,C-47 Dakota DT-941,20.0,16.0,4.0,20.0,16.0,4.0,0.0
+1944-09-17,21:20,"Copeland, Kansas",Military - U.S. Army,,,Consolidated B-24 Liberator,13.0,0.0,13.0,13.0,0.0,13.0,2.0
+1944-10-18,15:40,"Birkenhead, England",Military - U.S. Army Air Forces,,Liverpool - New York,Consolidated B24H,24.0,19.0,5.0,24.0,19.0,5.0,0.0
+1944-11-06,,"Jacksonville, Florida",Military - US Navy,,,Douglas C-47 Skytrain (DC-3),17.0,14.0,3.0,17.0,14.0,3.0,0.0
+1944-11-19,15:10,"Lewes, England",Military - U.S. Army Air Forces,,Chateaudun - Greenham Common,Douglas C-47A-DL,30.0,25.0,5.0,25.0,20.0,5.0,0.0
+1944-12-15,14:00,English Channel,Military - U.S. Army Air Forces,,"Twinwood, England - Villacoublay, France",UC-64A Noorduyn Norseman,3.0,2.0,1.0,3.0,2.0,1.0,0.0
+1945-02-02,10:15,"Near Montieri, Italy",Military - U.S. Army Air Forces,,Florence - Rome,Douglas C-47-DL,26.0,22.0,4.0,23.0,21.0,2.0,0.0
+1945-02-06,10:05,"Nunters Burgh, England",Military -Royal Air Force,,Thorney Island - Amiens,Douglas C-47 Dakota,23.0,19.0,4.0,23.0,19.0,4.0,0.0
+1945-02-13,06:30,"Off Oakland, California",Military - U.S. Navy,,,Douglas R4D-6,24.0,21.0,3.0,24.0,21.0,3.0,0.0
+1945-02-23,,"Snezka mountains, Poland",Military - German Army,,,Junkers 52/3m,8.0,8.0,0.0,8.0,8.0,0.0,0.0
+1945-02-23,,"Casablanca, Morocco",Military - United States Army Air Force,,,Curtiss C-46A,30.0,26.0,4.0,13.0,13.0,0.0,0.0
+1945-03-27,,"Coral Sea, off Australia",Military - U.S. Air Force,,Cooktown - Finschafen,Douglas C-47A-90-DL,24.0,20.0,4.0,24.0,20.0,4.0,0.0
+1945-04-19,05:35,"Near Perth, Australia",Military - U.S. Navy,,Perth - Adelaide,Douglas DC-3,13.0,11.0,2.0,13.0,11.0,2.0,0.0
+1945-04-20,06:40,"Sweetwater, Texas",Military - U.S. Army Air Forces,,"Midland, TX - Nashville, TN",Douglas C-47-DL,25.0,22.0,3.0,25.0,22.0,3.0,0.0
+1945-04-23,,"North Barrule, Isle of Man, England",Military - U.S. Air Force,,Ridgewell - Nutts Corner,B17G Flying Fortress,31.0,26.0,5.0,31.0,26.0,5.0,0.0
+1945-05-05,22:26,"Manus Island, New Guinea",Military - U.S. Army Air Forces,,Lorengau - Biak,Douglas C-54E-DO (DC-4),21.0,15.0,6.0,21.0,15.0,6.0,0.0
+1945-05-06,12:55,"Hindhead, England",Military - U.S. Army Air Forces,,,Curtiss-Wright C-46D-CU,30.0,25.0,5.0,30.0,25.0,5.0,1.0
+1945-05-09,01:30,"Roye, France",Military -Royal Air Force,,England - Brussels,Avro Lancaster,31.0,25.0,6.0,31.0,25.0,6.0,0.0
+1945-05-13,15:00,"Iran Jayas, New Guinea",Military - U.S. Army Air Forces,,,Douglas C-47B-DK,23.0,19.0,4.0,20.0,16.0,4.0,0.0
+1945-05-30,09:20,"Off Drewin, Ivory Coast",Military - U.S. Army Air Forces,,"Accra, Ghana - Monrovia, Liberia",Douglas C-47B-dK,21.0,18.0,3.0,21.0,18.0,3.0,0.0
+1945-07-11,,"Near Kisumu, Kenya",Military - South African Air Force,,Kisumu - Durban,Douglas C-47,28.0,24.0,4.0,28.0,24.0,4.0,0.0
+1945-07-12,14:36,"Near Florence, South Carolina",Eastern Air Lines / Military - U.S. Army Air Corps,45,Boston - NY - Washington DC - Jacksonville - Miami,Douglas DC-3-201C /  Army A-26,10.0,4.0,6.0,3.0,1.0,2.0,0.0
+1945-07-28,09:49,"New York, New York",Military - U.S. Army Air Forces,,Bedford - New York,North American B-25D bomber,3.0,1.0,2.0,3.0,1.0,2.0,11.0
+1945-09-11,10:15,"Near Milne Bay, New Guinea",Military - Royal Australian Air Force,,Milne Bay - Dobodura,Douglas C-47A,11.0,7.0,4.0,11.0,7.0,4.0,0.0
+1945-09-15,00:08,"Near Kansas, Missouri",Military - U.S. Army Air Forces,,,Douglas C-47B-DK,24.0,21.0,3.0,23.0,20.0,3.0,0.0
+1945-09-18,,"Puncak Jaya, Papua New Guinea",Military - Royal Australian Air Force,,Pitu - Merauke - Bamaga - Townsville,Douglas C-47B-5-DK,29.0,26.0,3.0,29.0,26.0,3.0,0.0
+1945-09-28,,"Near Chihkiang, China",Military - United States Army Air Force,,,Curtiss C-46D,20.0,17.0,3.0,20.0,17.0,3.0,0.0
+1945-10-05,12:50,"Elvetham, England",Military -Royal Air Force,,England - Prague,Consolidated LB-40-A Liberator,23.0,18.0,5.0,23.0,18.0,5.0,0.0
+1945-10-07,00:30,"Rennes, France",Military - Royal Air Force,,London - Cairo,Short Stirling IV,26.0,20.0,6.0,26.0,20.0,6.0,0.0
+1945-10-13,20:45,"Melsbroek, Belgium",Military -Royal Air Force,,London - Brussels - New Delhi,Consolidated LB-30-A Liberator,31.0,25.0,6.0,31.0,25.0,6.0,0.0
+1945-10-16,11:30,"Near Peking, China",Military - U.S. Army Air Forces,,Hankou - Peking,Curtiss-Wright C-46F-CU,59.0,55.0,4.0,59.0,55.0,4.0,0.0
+1945-10-20,,"Timor Sea, Atlantic Ocean",Military - Royal Australian Air Force,,"Ambon, Indonesia - Darwin, Australia",Douglas C-47B,25.0,21.0,4.0,25.0,21.0,4.0,0.0
+1945-10-23,,"Near Chiringa, India",Military - Royal Air Force,,,Douglas C-47B,14.0,12.0,2.0,14.0,12.0,2.0,0.0
+1945-10-30,19:15,"Chihchiang, China",Military - U.S. Army Air Forces,,Zhijiang - Shanghai,Curtiss-Wright C-46A-CK,50.0,46.0,4.0,45.0,44.0,1.0,0.0
+1945-11-01,15:30,"Herrenalb, Germany",Military - U.S. Army Air Forces,,Bovingdon - Schleissheim,Douglas C-47A-DK,30.0,26.0,4.0,26.0,22.0,4.0,0.0
+1945-11-03,02:00,"Near Chuka, India",Military - U.S. Army Air Forces,,Chabua - Karachi,Douglas C-54G,44.0,40.0,4.0,44.0,40.0,4.0,0.0
+1945-11-09,20:00,"Near Boccadi, Italy",Military - U.S. Army Air Forces,,Athens - Naples,Douglas C-47A-DL,24.0,20.0,4.0,24.0,20.0,4.0,0.0
+1945-11-11,23:45,"Near Castel, Libya",Military -Royal Air Force,,,Short Stirling,29.0,22.0,7.0,29.0,22.0,7.0,0.0
+1945-11-11,12:00,"Near Picinisco, Italy",Military - U.S. Army Air Forces,,France - Athens,Boeing B-17G,20.0,16.0,4.0,20.0,16.0,4.0,0.0
+1945-11-15,09:14,Near Jacquinot Bay  New Guinea,Military - Royal Australian Air Force,,Lae - Finschhafen - Jacquinot Bay - Rabaul,Douglas C-47 Dakota-DK,28.0,25.0,3.0,28.0,25.0,3.0,0.0
+1945-11-22,10:00,"White's Farm, England",Military -Royal Air Force,,Merryfield - Bombay,Consolidated LB-30A Liberator,27.0,22.0,5.0,27.0,22.0,5.0,0.0
+1945-12-03,13:30,"Near Rochefort , France",Military -Royal Air Force,,"India - Cambridge, England",Consolidated LB-30A Liberator,28.0,23.0,5.0,28.0,23.0,5.0,0.0
+1945-12-05,20:00,Off the Florida coast,Military - U.S. Navy,19,,Five Grumman TBM Avengers,14.0,0.0,14.0,14.0,0.0,14.0,0.0
+1945-12-08,01:13,"Near Billings, Montana",Military - U.S. Army,,Minneapolis - Fargo - Billings,Douglas C-47,21.0,19.0,2.0,17.0,15.0,2.0,0.0
+1945-12-18,10:10,"Voksenkollen, Norway",Military - Royal Air Force,,Down Ampney - Copenhagen - Oslo,Douglas C-47B,17.0,13.0,4.0,17.0,13.0,4.0,0.0
+1946-01-15,18:25,"Marseilles, France",Military -Royal Air Force,,,Douglas C-47 Dakota,25.0,21.0,4.0,23.0,19.0,4.0,0.0
+1946-02-05,,"Negros, Philippines",Military - U.S. Army Air Forces,,Iloilo - Cebu,Douglas C-47,20.0,16.0,4.0,20.0,16.0,4.0,0.0
+1946-03-19,11:45,"Hobart Mills, California",Military - U.S. Army Air Forces,,"Stockton, CA - Ogden, UT",Douglas C-47B,26.0,23.0,3.0,26.0,23.0,3.0,0.0
+1946-04-05,11:15,"Rabat, Malta",Military - Royal British Navy,,,Vickers Wellington bomber,4.0,0.0,4.0,4.0,0.0,4.0,16.0
+1946-06-01,07:40,"Off Amalfi, Italy",Military - U.S. Army Air Forces,,Cairo - Rome,Douglas C-54-DO (DC-4),38.0,30.0,8.0,30.0,26.0,4.0,0.0
+1946-06-09,10:30,"Taboga Island, Panama",Military - U.S. Army Air Forces,,,Douglas C-54D-DC (DC-4),23.0,17.0,6.0,23.0,17.0,6.0,0.0
+1946-06-09,13:15,"Near Abeokuta, Nigeria",Military -Royal Air Force,,Kano - Ikeja,Douglas C-47 Dakota,18.0,12.0,6.0,18.0,12.0,6.0,0.0
+1946-07-09,20:10,"Holyoke, Massachusetts",Military - U.S. Army Air Forces,,,Boeing B17G,25.0,21.0,4.0,25.0,21.0,4.0,0.0
+1946-07-18,21:10,"Goodland, Kansas",Military - U.S. Army Air Corps,,Topeka - Denver,Douglas C-47,13.0,10.0,3.0,13.0,10.0,3.0,0.0
+1946-07-25,,"Bassein, Burma",Military -Royal Air Force,,,Douglas C-47 Dakota,22.0,18.0,4.0,22.0,18.0,4.0,0.0
+1946-09-19,,"Near Tripoli, Libya",Military -Royal Air Force,,"St. Mawan, England - Almaza, Egypt",Avro Lancaster,25.0,19.0,6.0,25.0,19.0,6.0,0.0
+1946-09-25,09:31,Near Hong Kong International Airport,Military - Royal Air Force,,Hong Kong - Singapore,Douglas C-47B-25-DK,19.0,14.0,5.0,19.0,14.0,5.0,0.0
+1946-10-06,07:30,"Off Penang, Malaya",Military -Royal Air Force,,,Avro 685 York 1,21.0,15.0,6.0,21.0,15.0,6.0,0.0
+1946-10-07,11:20,"Apeldoorn, The Netherlands",Military - Royal Netherlands Naval Air Service,,,Fairey Firefly MK1,1.0,0.0,1.0,1.0,0.0,1.0,22.0
+1946-11-16,23:30,North Pacific Ocean,Military - U.S. Army Air Forces,,Guam - Iwo Jima,Douglas C-47,23.0,15.0,8.0,23.0,15.0,8.0,0.0
+1946-12-10,13:10,"Near Osaka, Japan",Military - U.S. Army Air Forces,,,Curtiss-Wright C-46F-CU,24.0,19.0,5.0,24.0,19.0,5.0,0.0
+1946-12-10,,"Toledo, Washington",Military - U.S. Marine Corps,,"Miramar NAS, California - Sand Point NB, Seattle",Curtiss-Wright R5C-1,32.0,29.0,3.0,32.0,29.0,3.0,0.0
+1947-01-14,09:00,"Near Puebla, Mexico",Military - Mexican Air Force,,Puebla - Oaxaca,Lockheed C-60 Lodestar,21.0,17.0,4.0,21.0,17.0,4.0,0.0
+1947-02-15,09:30,"Off Terracina, Italy",Military - Corrieri Aerei Militari,,Rome - Cairo,Savoia-Marchetti SM-95,16.0,10.0,6.0,16.0,10.0,6.0,0.0
+1947-02-21,16:00,"Chungking, China",Military - Chinese Air Force,,Sichang - Chungking,Douglas C-47,21.0,17.0,4.0,21.0,17.0,,0.0
+1947-02-26,,"China Sea, Pacific Ocean",Military - Royal Air Force,,Singapore - Siagon,Douglas C-47B,12.0,9.0,3.0,12.0,9.0,3.0,0.0
+1947-03-08,,"L'isola di Ischia, Italy",Military - Royal Air Force,,Hassani - Rome - Northolt,Douglas C-47B,13.0,10.0,3.0,13.0,10.0,3.0,0.0
+1947-03-18,,"Negombo, Sri Lanka",Military - Royal Air Force,,Negombo - Northolt,Avro York C1,15.0,9.0,6.0,11.0,7.0,4.0,0.0
+1947-05-29,22:45,"Atsugi, Japan",Military - U.S. Army Air Forces,,Seoul - Tachikawa,Douglas C-54D-DC (DC-4),40.0,33.0,7.0,40.0,33.0,7.0,0.0
+1947-07-31,,"Near Yumen, China",Military - Chinese Air Force,,Tihua - Lanzhou,Douglas C-47,26.0,22.0,4.0,26.0,22.0,4.0,0.0
+1947-08-06,,North Pacific Ocean,Military - U.S. Navy,,Kodiak - Dutch Harbor,Consolidated PBY-5A Catalina,20.0,15.0,5.0,20.0,15.0,5.0,0.0
+1947-10-31,,"Near Srinagar, India",Military - Royal Indian Air Force,,,Douglas C-47B,25.0,22.0,3.0,25.0,22.0,3.0,0.0
+1947-11-28,14:10,"Near Trappa, Italy",Military - U.S. Air Force,,,Douglas C-47B,20.0,15.0,5.0,20.0,15.0,5.0,0.0
+1947-12-10,00:20,"Near Goose Bay, Labrador",Military - U.S. Air Force,,"Goose Bay - Westover Field, MS",Douglas C-54D-DC (DC-4),29.0,25.0,4.0,23.0,22.0,1.0,0.0
+1947-12-11,18:10,"Near Memphis, Tennessee",Military - U.S. Air Force,,El Paso - Memphis,Douglas C-47-DK,20.0,16.0,4.0,20.0,16.0,4.0,0.0
+1948-02-27,,"Near Belem, Brazil",Military - Brazilian Air Force,,Rio de Janeiro - Bele - Cayenne,Douglas C-47,26.0,20.0,6.0,23.0,17.0,6.0,0.0
+1948-04-05,14:30,"Near Berlin, Germany",British European Airways / Military - Soviet Air Force,,London - Berlin,Vickers Viking 1B & Soviet YAK-3 fighter,14.0,10.0,4.0,14.0,10.0,4.0,0.0
+1948-11-03,10:50,"Near Glossop, England",Military - U.S. Air Force,,RAF Scrampton - Burtonwood AFB,Boeing B-29A Superfortress,13.0,0.0,13.0,13.0,0.0,13.0,0.0
+1949-01-17,09:50,"Near Succoth Glen, Lochgoilhead, Scotland",Military - U.S. Air Force,,RAF Scampton - Keflavik - Kansas,Boeing B-29A Superfortress,20.0,16.0,4.0,20.0,16.0,4.0,0.0
+1949-02-19,09:45,"Near Coventry, Warks, England",British European Airways / Military - British,,London - Glasgow,Douglas DC-3 / Avro Anson,14.0,6.0,8.0,14.0,6.0,8.0,0.0
+1949-06-07,14:00,"Near Florianpolis, Brazil",Military - Brazilian Air Force,,Florianpolis - Porto Alegre,Douglas C-47B,27.0,21.0,6.0,27.0,21.0,6.0,0.0
+1949-07-30,10:45,"Chesterfield, New Jersey",Eastern Air Lines / Military - USN,557,New York City - Wilmington,Douglas DC-3 -201D/ F-6-F- 5 Hellcat,16.0,12.0,4.0,16.0,12.0,4.0,0.0
+1949-08-21,23:30,"Near Bigstone Lake, Manitoba",Military - Royal Canadian Air Force,,Churchhill - Winnipeg,Consolidated Canso (amphibian),21.0,14.0,7.0,21.0,14.0,7.0,0.0
+1949-11-01,11:45,"Arlington, Virginia",Eastern Air Lines / Military - Bolivian Air Force,537,Boston - Washington D.C. - New Orleans,Douglas C-54B / P-38,55.0,51.0,4.0,55.0,51.0,4.0,0.0
+1950-01-20,12:00,"Near Vacas, Bolivia",Military - Bolivian Air Force,,Valle grande - Cochabamba,Douglas C-47,32.0,28.0,4.0,32.0,28.0,4.0,0.0
+1950-01-26,,"Near Snag, Yukon Territory",Military - U.S. Air Force,,"Elmendorf - Great Falls, MT",Douglas C-54D-DC (DC-4),44.0,36.0,8.0,44.0,36.0,8.0,0.0
+1950-04-21,23:25,"Near Atsugi, Japan",Military - U.S. Air Force,,Philippines - Japan,Douglas C-54D,35.0,27.0,8.0,35.0,27.0,8.0,0.0
+1950-05-17,20:59,"Lagens Air Force Base, Azores",Military - U.S. Air Force,,Bermuda - England,Boeing B-29,16.0,5.0,11.0,16.0,5.0,11.0,0.0
+1950-05-23,10:20,"Myrtle Beach, South Carolina",Military - U.S. Air Force,,,Curtiss C-46D,39.0,35.0,4.0,39.0,35.0,4.0,0.0
+1950-07-27,04:30,"Off O-shima Island, Japan",Military - U.S. Air Force,,,Douglas C-47D,26.0,23.0,3.0,25.0,22.0,3.0,0.0
+1950-08-25,,"Kampong Jenera, Malaysia",Military - Royal Air Force,,"Changi, Singapore - Kota Baru",Douglas C-47B,12.0,,12.0,12.0,,12.0,0.0
+1950-09-20,05:20,"Kwajalein, Marshall Islands",Military - U.S. Navy,,Kwajzalein - Tokyo,Douglas R5D-3,26.0,19.0,7.0,26.0,19.0,7.0,0.0
+1950-09-26,01:00,"Near Kyushu Island, Japan",Military - U.S. Air Force,,Ashiya AB - Kimpo AB,Douglas C-54D-DC (DC-4),51.0,43.0,8.0,23.0,18.0,5.0,0.0
+1950-12-19,07:30,"Near Baguio, Philippines",Military - U.S. Air Force,,Naha AB - Clark AB,Douglas C54E-DO (DC-4),38.0,31.0,7.0,38.0,31.0,7.0,0.0
+1951-01-28,08:40,"Near An tung, Taiwan",Military -Royal Air Force,,Hong Kong - Iwakuni,Short Sunderland 9 (flying boat),14.0,7.0,7.0,14.0,7.0,7.0,0.0
+1951-03-23,00:50,Over the North Atlantic,Military - U.S. Air Force,,Loring AFB - Lakeheath AFB,Douglas C-124A Globemaster,53.0,48.0,5.0,53.0,48.0,5.0,0.0
+1951-04-08,11:35,"Near Charleston, West Virginia",Military - U.S. Air Force,,"Godman AFB - Charleston, WV",Douglas C-47B-DK,21.0,18.0,3.0,21.0,18.0,3.0,0.0
+1951-04-25,11:49,"Key West, Florida",Cubana de Aviacion / Military -  US Navy,493,Miami - Havana,Douglas DC-4 /Beechcraft SMB-1,43.0,34.0,9.0,43.0,34.0,9.0,0.0
+1951-05-06,12:30,"Near Albuquerque, New Mexico",Military - U.S. Air Force,,Carswell - Kirtland,Convair B-36D,25.0,0.0,25.0,23.0,0.0,23.0,0.0
+1951-06-03,13:45,"New Boston, Texas",Military - U.S. Air Force,,Fort Campbell - Lawton,Fairchild C-82,10.0,0.0,10.0,10.0,0.0,10.0,0.0
+1951-07-12,22:45,"Lyneham AFB, England",Military - Royal Air Force,,Luqa - Lyneham - Dishforth,Vickers Valetta C-1,10.0,0.0,10.0,10.0,0.0,10.0,0.0
+1951-09-27,,Near Tachikawa Air Base,Military - US Air Force,,Ashiya - Tachikawa AB,	Fairchild C-119C-15-FA Flying Boxcar,14.0,0.0,14.0,14.0,0.0,14.0,0.0
+1951-10-15,,North Atlantic,Military - U.S. Air Force,,Azores - Westover AFB,Boeing C-97A Stratofreighter,12.0,9.0,3.0,12.0,9.0,3.0,0.0
+1951-10-27,19:00,"Near Flores, Guatemala",Military - Guatemalan Air Force,,Flores - Guatemala City,Douglas C-47,29.0,25.0,4.0,27.0,23.0,4.0,0.0
+1951-11-13,13:00,"Puy-de-Dôme, France",Military - U. S. Air Force,,Frankfort - Bordeaux,Fairchild C-82 Packet,36.0,32.0,4.0,36.0,32.0,4.0,0.0
+1951-12-30,15:40,"Near Phoenix, Arizona",Military - U.S. Air Force,,New York - Williams AFB,Douglas C-47D,28.0,24.0,4.0,28.0,24.0,4.0,0.0
+1952-02-07,,"Kaneko, Japan",Military - U.S. Air Force,,,Boeing B-29,13.0,,13.0,13.0,,13.0,5.0
+1952-03-12,,"Near Sequin, Texas",Military - U.S. Air Force / U.S. Air Force,,Training,Boeing B-29 / Boeing B-29,15.0,0.0,15.0,15.0,0.0,15.0,
+1952-06-25,,"Off Northumberland, North Sea",Military - Royal Air Force,,"Scrampton RAF Station, England",Avro Shackleton MR-1,13.0,11.0,2.0,11.0,9.0,2.0,0.0
+1952-07-18,00:0,"Whiting Field, near Milton, Florida",Military - Navy,,Corpus Christi - Norfork,Fairchild packet (C119 flying boxcar),46.0,40.0,6.0,41.0,37.0,4.0,0.0
+1952-08-26,07:00,"Near Khewra, West Pakistan",Military - Pakistan Air Force,,Khewra - Peshawar,Bristol 170 Freighter,18.0,,,18.0,,,0.0
+1952-10-08,,"Off Tarbat Ness, Scotland",Military - Royal Air Force,,,Avro Shackleton MR-1,14.0,2.0,12.0,14.0,2.0,12.0,0.0
+1952-10-16,,"Off Kangnung, South Korea",Military - U.S. Air Force,,,Curtiss-Wright C-46D-CU,25.0,21.0,4.0,25.0,21.0,4.0,0.0
+1952-11-07,03:00,"Near Summit, Alaska",Military - U.S. Air Force,,Elmendorf AFB - Big Delta,Fairchild C-119C,19.0,14.0,5.0,19.0,14.0,5.0,0.0
+1952-11-14,14:45,"Near Seoul, South Korea",Military - U.S. Air Force,,,Fairchild C-119C,44.0,37.0,7.0,44.0,37.0,7.0,0.0
+1952-11-15,,"Near Anchorage, Alaska",Military - U.S. Air Force,,Elemndorf AFB - Kodiak NAS,Fairchild C-119C,20.0,15.0,5.0,20.0,15.0,5.0,0.0
+1952-11-22,20:15,"Mount Gannett, Alaska",Military - U.S. Air Force,,,Douglas C-124A Globemaster,52.0,41.0,11.0,52.0,41.0,11.0,0.0
+1952-11-28,00:50,"Near Tacoma, Washington",Military - U.S. Air Force,,,Douglas C-54G (DC-4),38.0,31.0,7.0,37.0,30.0,7.0,0.0
+1952-12-20,06:30,"Moses Lake, Washington",Military - U.S. Air Force,,,Douglas C-124A Globemaster,115.0,105.0,10.0,87.0,82.0,5.0,0.0
+1953-01-15,04:48,"25 nm off Agrigento, Italy",Military -Royal Air Force,-,,Vickers Valetta Mk1 / Avero Lancaster,26.0,16.0,10.0,26.0,16.0,10.0,0.0
+1953-02-09,19:00,"Cairo, Egypt",Military - Egyptian Air Force,,Al Arish - Cairo,Curtiss-Wright C-46,40.0,35.0,5.0,29.0,24.0,5.0,0.0
+1953-03-18,04:10,"Random Island, Newfoundland",Military - U.S. Air Force,,Lajes - Saint John’s - Rapid City,Convair RB-36H,23.0,18.0,5.0,23.0,18.0,5.0,0.0
+1953-05-07,,"Off Hartland Point, England",Military - Royal Air Force,,Training,Vickers Valetta T-3,10.0,0.0,10.0,10.0,0.0,10.0,0.0
+1953-06-18,16:34,"Tachikawa AFB, Tokyo, Japan",Military - U.S. Air Force,,Tachikawa AB - Kimpo AB,Douglas C-124A Globemaster II,129.0,122.0,7.0,129.0,122.0,7.0,0.0
+1953-07-17,23:15,"Near Milton, Florida",Military - U.S. Navy,,Whitting NAS - Norfolk NB,Fairchild R4Q-2,46.0,40.0,6.0,44.0,39.0,5.0,0.0
+1953-08-05,,Off Irish coast,Military - U.S. Air Force,, Travis - Lakenheath, Convair B-36,23.0,0.0,23.0,19.0,0.0,19.0,0.0
+1953-11-11,17:30,"Off Argyll, Scotland",Military - Royal Air Force,,Training,Avro Shackleton MR-2,10.0,0.0,10.0,10.0,0.0,10.0,0.0
+1953-12-17,06:50,"Guam, Mariana Islands",Military - U.S. Air Force,,,Boeing B-29,16.0,6.0,10.0,11.0,5.0,6.0,8.0
+1954-01-06,17:20,"Near Aldbury, England",Military -Royal Air Force,,Bovingdon AF - Thorney Island,Vickers Valetta,17.0,13.0,4.0,16.0,12.0,4.0,0.0
+1954-01-13,,"Signal Hill, California",Military - U.S. Air Force,,Williams AFB  - Long Beach,F-88 Sabre Jet,1.0,0.0,1.0,1.0,0.0,1.0,6.0
+1954-02-01,13:50,"Off Hokkaido, Japan",Military - U.S. Air Force,,Misawa - Chitose,Curtiss-Wright C46D-CU,35.0,30.0,5.0,35.0,30.0,5.0,0.0
+1954-02-05,,"Susitna Valley, Alaska",Military - U.S. Air Force,,Ladd AFB - Elemndorf AFB,Douglas C-47,16.0,0.0,16.0,10.0,0.0,10.0,0.0
+1954-02-12,,"Off Gozo, Malta",Military - Royal Air Force,,Military exercise,Avro Shackleton MR-2,10.0,0.0,10.0,10.0,0.0,10.0,0.0
+1954-03-04,14:30,"Near St. Etienne de Tinee, France",Military - U.S. Air Force,,"Tripoli, Libya - Hahn, W Germany",Douglas C-47A-DL,20.0,18.0,2.0,20.0,18.0,2.0,0.0
+1954-03-19,22:30,"Near Lothian, Maryland",Military - U.S. Air Force,,"Oklahoma - Long Island, NY",Fairchild C-110F,18.0,12.0,6.0,18.0,12.0,6.0,0.0
+1954-07-02,12:00,"Near Salvador, Brazil",Military - Brazilian Air Force,,,Lockheed C-28,24.0,20.0,4.0,24.0,20.0,4.0,0.0
+1954-08-27,22:11,"Near Rapid City, South Dekota",Military - U.S. Air Force,,Training,Convair RB-36H,27.0,23.0,4.0,26.0,23.0,3.0,0.0
+1954-10-24,17:50,"Near Nice, Italy",Military - U.S. Air Force,,Rome - Lyons,Douglas C-47A-DL,21.0,18.0,3.0,21.0,18.0,3.0,0.0
+1954-10-30,01:00,"Off Ocean City, Maryland",Military - U.S. Navy,57,"Patuxent River NAS - Kenitra, Morocco",Lockheed R7V-1,42.0,21.0,21.0,42.0,21.0,21.0,0.0
+1955-03-22,02:03,"Oahu, Hawaii",Military - U.S. Navy,,Tokyo - Hickam - Travis,Douglas R6D-1 (C-118B),66.0,57.0,9.0,66.0,57.0,9.0,0.0
+1955-08-11,14:20,"Near Edelweiler, West Germany",Military - U.S. Air Force / Military - U.S. Air Force,,Dreux - Stuttgart,Fairchild C119G / Fairchild C119G,67.0,57.0,10.0,67.0,57.0,10.0,0.0
+1955-11-17,,"Near Las Vegas, Nevada",Military - U.S. Air Force,,Burbank - Groom Dry Lake,Douglas MC-54M,14.0,10.0,4.0,14.0,10.0,4.0,0.0
+1955-11-20,18:59,"Iwo Jima, Japan",Military - US Air Force,,Iwo Jima AFB - Tachikawa AFB,Douglas C124-DL Globemaster II,11.0,2.0,9.0,10.0,2.0,8.0,0.0
+1955-11-30,22:00,"Near Ballico, California",Military - U.S. Air Force,,,Boeing RB-52B,10.0,0.0,10.0,10.0,0.0,10.0,0.0
+1956-02-17,13:42,"Near Niles, California",Military - U.S. Marine Corps,,El Toro MAS - Alameda NAS,Douglas R5D2,40.0,35.0,5.0,40.0,35.0,5.0,0.0
+1956-03-31,,"Korat ,Thailand",Military - Royal Thai Air Force,,Korat AFB - Bangkok,Douglas C-47A,19.0,17.0,2.0,19.0,17.0,2.0,0.0
+1956-05-15,22:17,"Orleans, Ontario, Canada",Military - Royal Canadian Air Force,,Ottawa - Ottawa,CF-100 Mark 4B,2.0,0.0,2.0,2.0,0.0,2.0,13.0
+1956-07-13,15:35,"Near Brows Mills, New Jersey",Military - U.S. Air Force,,McGuire AFB - Harmon AFB,Douglas C-118A,66.0,56.0,10.0,46.0,38.0,8.0,0.0
+1956-10-10,22:10,"Off Land's End, England",Military - U.S. Navy,,RAF Lakenheath - McGuire AFB,Douglas C188-B,59.0,50.0,9.0,59.0,50.0,9.0,0.0
+1956-10-28,22:00,Over the Mediterranean Sea,Military - Egyptian Air Force,,Damascus- Cairo,Curtiss C-46,16.0,12.0,4.0,16.0,12.0,4.0,0.0
+1956-12-31,00:04,"Dhahran, Saudi Arabia",Military - U.S. Air Force,,Charleston - Hamilton - Horta - Lisbon - Tripoli - Dhahran,Lockheed C-121C Super Constellation,38.0,31.0,7.0,12.0,12.0,0.0,0.0
+1957-02-22,20:00,"Kimpo Air Base, South Korea",Military - U.S. Air Force,,"Kimpo AB - Tokyo, Japan",Douglas C-124C,159.0,149.0,10.0,22.0,19.0,3.0,0.0
+1957-03-05,11:00,"Drayton, England",Military -Royal Air Force,,Drayton - Multa,Blackburn Beverley C Mark 1,22.0,17.0,5.0,18.0,15.0,3.0,2.0
+1957-03-17,01:40,"Near Cebu, Philippines",Military - Philippine Air Force,,Cebu - Manila,Douglas C-47-A-75-DL Skytrain,25.0,22.0,3.0,24.0,21.0,3.0,0.0
+1957-03-22,00:37,Over the North Pacific Ocean,Military - U.S. Air Force,,Travis AFB - Tokyo,Boeing C-97C,67.0,57.0,10.0,67.0,57.0,10.0,0.0
+1957-04-17,08:30,"Near El Quweira, Jordan",Military -Royal Air Force,,"Aqaba AFB - Habbaniya, Iraq",Vickers Valetta C-Mk.1,24.0,21.0,3.0,24.0,21.0,3.0,0.0
+1957-07-16,21:20,"Near Hsinchu, Taiwan (Formosa)",Military - United States Air Force,,"Clark Field, Philippines - Taipei, Taiwan",Douglas C-47A-90 (DC-3),16.0,9.0,7.0,16.0,9.0,7.0,0.0
+1957-12-23,16:00,"Off Oahu, Hawaii",Military - U.S. Navy,,,Lockheed WV-2,23.0,19.0,4.0,19.0,16.0,3.0,0.0
+1958-02-01,19:15,"Norwalk, California",Military - U.S.  Air Force / Military - U.S. Navy,,Long Beach - McGuire AFB,Douglas C-118A / Lockheed P2V-5F,41.0,35.0,6.0,41.0,35.0,6.0,1.0
+1958-02-15,22:24,"Mount Vesuvius, Italy",Military - US Air Force,,Ramstein - Naples - Turkey,Douglas VC-47A,16.0,14.0,2.0,16.0,14.0,2.0,0.0
+1958-02-20,05:35,"Off Corvo Island, Azores",Military - U.S. Navy,,Argentina - Azores,Lockheed WV-2,22.0,0.0,22.0,22.0,0.0,22.0,0.0
+1958-03-07,19:45,"Off Ryukyu Islands, Okinawa",Military - U.S. Marine Corps/Military - U.S. Marine Corps,,Subic Bay - Naha,Fairchild R4Q / Dougas AD-6 skyraider,26.0,19.0,7.0,26.0,19.0,7.0,0.0
+1958-03-27,16:15,"Bridgeport, Texas",Military - U.S. Air Force/Military - U.S. Air Force,,San Antionio - OK City / Wichita Falls - Forth Worth,Douglas C-124C / Fairchild C-119C,18.0,13.0,5.0,18.0,13.0,5.0,0.0
+1958-04-21,08:30,"Near Sloan, 10 miles SW of Las Vegas, Nevada",United Air Lines / Military - U.S. Air Force,736,Los Angeles - New York City,Douglas DC-7 / F-100F,49.0,42.0,7.0,49.0,42.0,7.0,0.0
+1958-05-20,11:29,"Brunswick, Maryland",Capital Airlines / Military - Air National Guard,300,Pittsburgh - Baltimore,Vickers Viscount 745D / T-33A,13.0,7.0,6.0,12.0,7.0,5.0,0.0
+1958-06-27,00:30,"Near Chicopee Falls, Massachusetts",Military - U.S. Air Force,,Westover AFB - London,Boeing KC-135A,15.0,8.0,7.0,15.0,8.0,7.0,0.0
+1958-09-02,14:00,"Sasnashen, Russia",Military - U.S. Air Force,,Survey flight,Lockheed C-130A-II Hercules,17.0,0.0,17.0,17.0,0.0,17.0,0.0
+1958-09-02,06:10,Off Guam,Military - U.S. Air Force,,Guam - Clark AB,Douglas C-124C Globemaster,19.0,12.0,7.0,19.0,12.0,7.0,0.0
+1958-09-08,19:20,"Near Fairchild AFB, Washington DC",Military - U.S. Air Force / U.S. Air Force,,Training,Boeing B-52 / Boeing B-52,16.0,0.0,16.0,13.0,0.0,13.0,0.0
+1958-09-19,,"Triel, France",Military - U.S. Air Force,,Evreux - Spangdahlem,Lockheed C-130A Hercules,15.0,0.0,15.0,15.0,0.0,15.0,0.0
+1958-10-09,18:25,"Payette, Idaho",Military - U.S. Air Force,,Ogden Hill AFB - McChord AFB,Fairchild C-123 Provider,19.0,14.0,5.0,19.0,14.0,5.0,0.0
+1958-10-15,17:30,"Villa Montes, Bolivia",Military - TAM (Bolivia),,Fortin Campero - Tarija,Douglas C-47A,20.0,17.0,3.0,20.0,17.0,3.0,0.0
+1959-06-30,10:35,"Ishikawa City, Ryukyu Island, Okinawa",Military - U.S. Air Force,,,North American F-100D-25NA,1.0,0.0,1.0,0.0,0.0,0.0,17.0
+1960-01-10,15:38,Gulf of Sirte,Military - U.S. Army,,Misurata - Benghazi,de Havilland Canada U-1A Otter,10.0,9.0,1.0,10.0,9.0,1.0,0.0
+1960-02-25,13:07,"Rio de Janeiro, Brazil",REAL / Military - U.S. Navy,,Campos - Rio de Janeiro,Douglas DC-3 / USN R4-D6,64.0,53.0,11.0,61.0,50.0,11.0,0.0
+1960-04-18,,"Stephenville, Newfoundland",Military - U.S. Air Force,,Dover-Stephenville - Lajes - Mildenhall,Douglas C-124C Globemaster,9.0,,9.0,9.0,,9.0,0.0
+1960-07-11,11:45,"Near Quito, Ecuador",Military - U.S. Misson,,Bogota - Quito,Douglas C-47B-DK,18.0,14.0,4.0,18.0,14.0,4.0,0.0
+1960-07-19,13:45,"Near Goma, Zaire",Military - Royal Belgian Air Force,,,Fairchild C-119G,41.0,37.0,4.0,37.0,33.0,4.0,0.0
+1960-08-17,23:45,"Near El Kelaa, Morocco",Military - French Naval Aviation,,,Avro Lancaster 1,20.0,15.0,5.0,20.0,15.0,5.0,0.0
+1960-09-22,14:10,"Off Naha, Okinawa",Military - U.S. Navy,,"Atsugi, Japan - Subi Point, Philippines",Douglas R5D-3,29.0,26.0,3.0,29.0,26.0,3.0,0.0
+1960-12-11,19:50,"San Andres de Giles, Argentina",Military - Argentine Air Force,,Lima - Antofagasta - El Palomar,Avro 691 Lancastrian IV,31.0,23.0,8.0,31.0,23.0,8.0,0.0
+1960-12-17,14:10,"Munich, West Germany",Military - U.S. Air Force,,"Munich - Northolt AB, England",Convair C-131D (CV-340-79),20.0,13.0,7.0,20.0,13.0,7.0,31.0
+1961-01-22,03:04,Midway Island Naval Air Station,Military - U.S. Navy,,Survey,Lockheed WV-2 Super Constellation,22.0,0.0,22.0,6.0,0.0,6.0,3.0
+1961-01-26,03:30,"Trinity Bay, Newfoundland",Military - U.S. Air Force,,Kenitra - Lajes - Argentia - Norfork,Douglas C-118A Liftmaster,23.0,13.0,10.0,23.0,13.0,10.0,0.0
+1961-03-25,,"Near Natal, Brazil",Military - Brazilian Air Force,,Rio de Janerio - Belem,Douglas C-47DL,28.0,22.0,6.0,23.0,21.0,2.0,0.0
+1961-04-18,18:10,"Mount Parker, Hong Kong",Military - US Air Force,,Hong Kong - Tainan AFB,C-47(DC-3),15.0,12.0,3.0,14.0,11.0,3.0,0.0
+1961-05-24,02:22,"Near Tacoma, Washington",Military - U.S. Air Force,,McChord - Lawton,Douglas C-124A-DL,22.0,16.0,6.0,22.0,16.0,6.0,0.0
+1961-05-29,14:36,Singapore,Military - Royal Air Force,,Traing,Handley Page Hastings C-2,13.0,8.0,5.0,13.0,8.0,5.0,0.0
+1961-10-10,,"El Adem, Libya",Military - Royal Air Force,,El Adem - Luqa,Handley Page Hastings C-2,37.0,34.0,3.0,17.0,16.0,1.0,0.0
+1961-12-12,08:45,"Chievres, Belgium",Military - Belgian Air Force,,,Fairchild C-119G / Fairchild C-119,13.0,0.0,13.0,13.0,0.0,13.0,8.0
+1962-03-08,17:30,"Near Alencon, France",Military - U.S. Air Force,,Training exercise,Lockheed C-130A Hercules,15.0,13.0,2.0,15.0,13.0,2.0,0.0
+1962-03-20,20:30,Algeria,Military - French Air Force,,Ouargla - Boufarik,Nord 2501 Noratlas,11.0,8.0,3.0,11.0,8.0,3.0,0.0
+1962-04-06,15:00,"Near Villavicencio, Colombia",Military - Colombian Air Force,,Bogota - Araracuara - Villavicencio,Douglas C-47,31.0,26.0,5.0,31.0,26.0,5.0,0.0
+1962-04-19,,Near Hong Kong,Military - U.S. Air Force,,Hong Kong - Formosa,Douglas C-47,16.0,10.0,6.0,15.0,10.0,5.0,0.0
+1962-05-08,,"Near Mong Pa Liao, Burma",Military - Union of Burma Air Force,, Tachilek - Mandalay,Douglas C-47,32.0,28.0,4.0,32.0,28.0,4.0,0.0
+1962-05-17,,"Near Nairobi, Kenya",Military - U.S. Air Force,, Tripoli - Nairobi,Lockheed C-130A Hercules,13.0,7.0,6.0,13.0,7.0,6.0,0.0
+1962-05-22,11:40,"Near Markt Schwaben, West Germany",Military - U.S. Navy,,,Lockheed C121J,26.0,22.0,4.0,26.0,22.0,4.0,0.0
+1962-09-03,16:55,"Yanoyaki, Japan",Military - Japan Maritime Self Defense Force,,,Lockheed P2V-7,12.0,0.0,12.0,12.0,0.0,12.0,1.0
+1962-09-10,11:05,"Near Milan, Washington",Military - U.S. Air Force,,Ellsworth AFB - Fairchild AFB,Boeing KC-135A,44.0,40.0,4.0,44.0,40.0,4.0,0.0
+1963-01-30,02:00,"Off Patuxent River, Maryland",Military - U.S. Navy,,Training,Lockheed P-3A Orion,14.0,0.0,14.0,14.0,0.0,14.0,0.0
+1963-02-01,17:15,"Ankara, Turkey",Middle East Airlines / Military - Turkish Air ForceC-47,265,Nicosia - Ankara,Vickers Viscount 754D / Douglas C-47,17.0,11.0,6.0,17.0,11.0,6.0,87.0
+1963-03-23,11:00,"Misaki Mountain, Japan",Military - Japan Air Self Defense Force,,,H-21B,10.0,0.0,10.0,10.0,0.0,10.0,0.0
+1963-06-16,15:00,"Near Aysen, Chile",Military - Chilean Air Force,,Coihaique - Pueto Aysén,Douglas C-47A,20.0,17.0,3.0,19.0,16.0,3.0,0.0
+1963-06-23,12:00,"Near Augustdorf, West Germany",Military - Royal Belgian Air Force,,Brussels - Gütersloh,Fairchild C-119,47.0,42.0,5.0,38.0,33.0,5.0,0.0
+1963-08-28,12:30,"Off Miami, Florida",Military - U.S. Air Force / Military -  U.S. Air Force,,,Boeing KC-135A / Boeing KC-135A,11.0,0.0,11.0,11.0,0.0,11.0,0.0
+1963-09-22,,"Off Dover, Deleware",Military - U.S. Air Force,,"Dover AFB - Lajes, Azores",Douglas C-133A,10.0,0.0,10.0,10.0,0.0,10.0,0.0
+1963-10-18,,"Near Aswan, Egypt",Military - Soviet Air Force,,Cairo - Aswan,Antonov AN-12,31.0,25.0,6.0,31.0,25.0,6.0,0.0
+1964-02-18,15:40,"Banihal Pass, India",Military - Indian Air Force,,Srinagar - Udhampur,Ilyushin IL-14,13.0,8.0,5.0,13.0,8.0,5.0,0.0
+1964-03-04,,"Barrackpore, India",Military - Indian Air Force,,Barrackpore - Bagdogra,Fairchild C-119,22.0,17.0,5.0,22.0,17.0,5.0,0.0
+1964-05-11,19:20,"Papanga, Philippines",Military - U.S. Air Force,,Travis - Hickam - Clark,Boeing C-135B,84.0,74.0,10.0,79.0,74.0,5.0,0.0
+1964-09-04,19:00,"Near Vaong Nong, Thailand",Military - Royal Thai Air Force,,Khoke Kathiam - Vaong Nong,Douglas C-47,34.0,,,28.0,,,0.0
+1964-10-19,11:35,"Near Belgrade, Yugoslavia",Military - Soviet Air Force,,Moscow - Belgrade,Ilyushin IL-18,33.0,29.0,4.0,33.0,29.0,4.0,0.0
+1964-11-17,18:55,"Off Argentia, Newfoundland, Canada",Military - U.S. Navy,,Training,Lockheed P-3A,10.0,0.0,10.0,10.0,0.0,10.0,0.0
+1964-12-11,,"Near Da Nang, South Vietnam",Military - Vietnamese Air Force,,,Fairchild C-123,38.0,32.0,6.0,38.0,32.0,6.0,0.0
+1965-01-16,09:30,"Wichita, Kansas",Military - U.S. Air Force,,,Boeing KC-135A,7.0,0.0,7.0,7.0,0.0,7.0,23.0
+1965-01-22,,Mt. Helmos. Greece,Military - U.S. Air Force,,Aviano - Athens,Douglas C-124C,10.0,0.0,10.0,10.0,0.0,10.0,0.0
+1965-03-23,,"Off San Juan, Puerto Rico",Military - Royal Canadian Air Force,,Training exercise,Canadair CP-107 MK-2,16.0,14.0,2.0,16.0,14.0,2.0,0.0
+1965-06-25,01:46,"Near Santa Ana, California",Military - U.S. Air Force,,El Toro -  Honolulu - Okinawa,Boeing C-135A,85.0,73.0,12.0,85.0,73.0,12.0,0.0
+1965-07-06,16:00,"Near Oxford, England",Military -Royal Air Force,,,Handley Page Hastings C Mark 1,41.0,35.0,6.0,41.0,35.0,6.0,0.0
+1965-07-07,01:30,"Cairo, Egypt",Military - Soviet Air Force,,Cairo - Yamen,Antonov AN-12,31.0,22.0,9.0,30.0,21.0,9.0,0.0
+1965-07-11,22:22,"Off Nantucket, Massachusetts",Military - U.S. Air Force,-,Otis AFB,EC-121H (Super Constellation),19.0,15.0,4.0,16.0,13.0,3.0,0.0
+1965-07-25,07:40,"Near Libacao, Philippines",Military - Philippine Air Force,,Hong Kong - Da Nang,Douglas C-47,37.0,30.0,7.0,37.0,30.0,7.0,0.0
+1965-08-24,10:10,Hong Kong,Military - U.S. Marine Corps,,Hong Kong - Da Nang,Lockheed KC-130F,72.0,66.0,6.0,59.0,57.0,2.0,0.0
+1965-11-02,,"Obock, French Somaliland",Military - French Air Force,,Djibouti - Obock,Douglas C-47A,30.0,25.0,5.0,30.0,25.0,5.0,0.0
+1965-11-03,07:30,"Off Puerto Lemon, Costa Rica",Military - Argentine Air Force,,Buenos Aires - Howard - San Salvador,Douglas C-54,68.0,59.0,9.0,68.0,59.0,9.0,0.0
+1965-12-11,15:00,"Near Tuy Hoa, South Vietnam",Military - U.S. Air Force,,Pleiku - Tuy Hoa,Fairchild C-123C,85.0,81.0,4.0,85.0,81.0,4.0,0.0
+1966-01-25,10:15,"Near Binh Khe, South Vietnam",Military - U.S. Air Force,,,Fairchild C-123B,46.0,42.0,4.0,46.0,42.0,4.0,0.0
+1966-05-04,08:00,"Near Di Linh, South Vietnam",Military - U.S. Army,,,Boeing CH47A (helicopter),20.0,17.0,3.0,20.0,17.0,3.0,0.0
+1966-07-15,,Pakistan,Military - Pakistan Air Force,,,Lockheed C-130B Hercules,10.0,0.0,10.0,10.0,0.0,10.0,0.0
+1966-08-17,,"Near Da Nang, South Vietnam",Military - U.S. Marine Corps,,,Chance Vought F-8E,1.0,0.0,1.0,0.0,0.0,0.0,33.0
+1966-10-04,,"An Khe, Vietnam",Military - U.S. Army,,Hammond - An Khe,de Havilland Canada CV-2B Caribou,32.0,28.0,4.0,14.0,10.0,4.0,0.0
+1966-11-11,01:43,"Off Chatham, Massachusetts",Military - U.S. Air Force,-,Survey flight,Lockheed EC-121H,19.0,15.0,4.0,19.0,15.0,4.0,0.0
+1966-11-26,19:20,"Near Saigon, South Vietnam",Military - U.S. Air Force,,Saigon - Korat AB,Douglas C-47D,31.0,25.0,6.0,31.0,25.0,6.0,0.0
+1967-03-10,16:20,"Near Phan Rang, South Vietnam",Military - U.S. Navy,,Siagon - Cam Ranh Bay AB,Douglas C-47J,25.0,21.0,4.0,25.0,21.0,4.0,0.0
+1967-04-17,17:40,"Near Mamuniyeh, Iran",Military - Imperial Iranian Air Force,,Shiraz - TerhanI,Lockheed C-130B,23.0,14.0,9.0,23.0,14.0,9.0,0.0
+1967-06-15,05:00,"Near Coari, Brazil",Military - Brazilian Air Force,,Belem - Cachimbo,Douglas C-47,25.0,20.0,5.0,20.0,16.0,4.0,0.0
+1967-06-17,19:30,"An Khe, South Vietnam",Military - U.S. Air Force,,An Khe - Tan Son Nhut,Lockheed C-130B,56.0,49.0,7.0,35.0,35.0,0.0,0.0
+1967-10-08,09:40,"Near Huong Thuy, South Vietnam",Military - U.S. Air Force,,Hue - Da Nang,Lockheed C130B,23.0,18.0,5.0,23.0,18.0,5.0,0.0
+1967-11-30,14:30,"Near Qui Nhon, South Vietnam",Military - U.S. Air Force,,Pleiku  Qui Nhon,de Havilland Canada C-7A Caribou,26.0,22.0,4.0,26.0,22.0,4.0,0.0
+1968-01-08,17:00,"Near Quang Tri, South Vietnam",Military - U.S. Marine Corps,,,Sikorsky CH-53A (helicopter),42.0,37.0,5.0,42.0,37.0,5.0,0.0
+1968-01-10,14:00,"Near Copper Canyon, Nevada",Military - U.S. Marine Corps,,Buckley ANGB - Seattle NAS,Douglas C-54P,19.0,12.0,7.0,19.0,12.0,7.0,0.0
+1968-02-07,15:00,"Rohtang Pass, Northern India",Military - Indian Air Force,202,"Leh, Kashmir - Chandigarh, Punjab",Antonov AN-12BP,102.0,98.0,4.0,102.0,98.0,4.0,0.0
+1968-03-05,08:00,"Near Khe Sanh, South Vietnam",Military - U.S. Air Force,,Hue - Khe Sanh,Fairchild C-123K,49.0,45.0,4.0,49.0,45.0,4.0,0.0
+1968-03-09,23:17,"Near Saint Denis, Reunion",Military - French Air Force,,Saint Denis - Paris,Douglas DC6B,20.0,12.0,8.0,19.0,12.0,7.0,0.0
+1968-03-27,10:31,"Near Moscow, Russia",Military - Russian Air Force,,,MiG-15 UTI,2.0,0.0,2.0,2.0,0.0,2.0,0.0
+1968-04-30,,"Near Chaklala, West Pakistan",Military - Pakistan Air Force,,,Lockheed Martin L-100-10,22.0,18.0,4.0,22.0,18.0,4.0,0.0
+1968-05-12,07:20,"Kham Duc, Vietnam",Military - U.S. Air Force,,Kham Duc  - Saigon,Lockheed C-130B Hercules,155.0,149.0,6.0,155.0,149.0,6.0,0.0
+1968-10-21,06:00,"Near Ban Me Thuot, South Vietnam",Military - U.S. Air Force,,Saigon - Da Nang,Douglas C-47D,23.0,12.0,11.0,23.0,12.0,11.0,0.0
+1969-04-02,12:40,"Near Quang Tri, South Vietnam",Military - U.S. Army,,,Boeing Vertol CH47C (helicopter),78.0,73.0,5.0,24.0,23.0,1.0,0.0
+1969-04-15,13:50,"Off Chongjin, North Korea",Military - U.S. Navy,,Atsuji - Atsuji,Lockheed EC-121M,31.0,25.0,6.0,31.0,25.0,6.0,0.0
+1969-05-06,13:20,"Near Chon Thanh, South Vietnam",Military - U.S. Army,,,Boeing Vertol CH47A (helicopter),74.0,69.0,5.0,30.0,29.0,1.0,0.0
+1969-06-05,,"Off Andreanof Islands, Alaska",Military - U.S. Air Force,,"Shemya, AK - Eielson, AK",Boeing RC-135E,19.0,0.0,19.0,19.0,0.0,19.0,0.0
+1969-09-02,11:15,"Near Pakse, Laos",Military - Royal Lao Air Force,,Savannakhet - Pakse,Douglas C-47,35.0,31.0,4.0,35.0,31.0,4.0,0.0
+1969-10-02,07:10,Gulf of Tonkin,Military - U.S. Navy,,Subi Point - USS Constellation,Grumman C-2A,26.0,21.0,5.0,26.0,21.0,5.0,0.0
+1970-01-12,12:00,Near Villia Greece,Military - Royal Hellenic Air Force,,Military exercise,Douglas C-47,27.0,22.0,5.0,23.0,19.0,4.0,0.0
+1970-03-16,11:30,"Near Da Nang, South Vietnam",Military - U.S. Navy,,Taiwan - Da Nang,Lockheed EC-121P,31.0,0.0,31.0,23.0,0.0,23.0,0.0
+1970-04-25,10:23,"Rivolto, Italy",Military - Italian Air Force,,Rivolto - Grazzanise,Fairchild C-119G,19.0,12.0,7.0,17.0,10.0,7.0,0.0
+1970-05-04,08:04,"Hamilton AFB, California",Military - U.S. Air Force,,Hamilton - Spokane,Convair CV-240,14.0,0.0,14.0,13.0,0.0,13.0,0.0
+1970-06-10,,"Near Huaricanga, Peru",Military - LADE,,Quito - Lima - Salta - Buenos Aires,Fokker F-27 Friendship 400M,8.0,5.0,3.0,5.0,3.0,2.0,0.0
+1970-07-18,17:20,North Atlantic Ocean,Military - Soviet Air Force,,Reykjavik - Halifax - Sidney,Antonov AN-22,23.0,15.0,8.0,23.0,15.0,8.0,0.0
+1970-08-03,,"Near Las Vegas, Nevada",Military - United States Navy,,Nellis - North Island - Barbers Point,Lockheed P-3A Orion,10.0,0.0,10.0,10.0,0.0,10.0,0.0
+1970-10-02,14:07,"Near Taipei, Taiwan",Military - U.S. Air Force,,Taipei - Ching Chuan Kang,Lockheed C-130E,43.0,37.0,6.0,43.0,37.0,6.0,0.0
+1970-11-27,13:30,"Near Nha Trang, South Vietnam",Military - U.S. Air Force,,Saigon - Nha Trang AB,Fairchild C-123K,79.0,73.0,6.0,79.0,73.0,6.0,0.0
+1970-11-29,14:30,"Near Cam Ranh, South Vietnam",Military - U.S. Air Force,,Cam Ranh Bay AB - Siagon,Fairchild C-123K,44.0,39.0,5.0,42.0,37.0,5.0,0.0
+1971-04-15,07:00,"Near San Jose, Philippines",Military - Philippine Air Force,,Manila - Nichols AFB,Douglas C-47A,40.0,36.0,4.0,39.0,35.0,4.0,0.0
+1971-06-06,17:11,"Near Duarte, California",Hughes Airwest  / Military - US Marine Air Corps,706,Los Angeles - Salt Lake City,McDonnell Douglas DC-9-31 / F4-B,51.0,44.0,7.0,50.0,44.0,6.0,0.0
+1971-06-13,13:30,North Pacific Ocean,Military - U.S. Air Force,,Hickam AFB - Pango Pango,Boeing - EC-135N,24.0,20.0,4.0,24.0,20.0,4.0,0.0
+1971-07-30,15:00,"Near Pau, France",Military - French Air Force,,Exercises,Nord 2501 Noratlas,39.0,36.0,3.0,37.0,34.0,3.0,0.0
+1971-08-18,09:40,"Near Pegnitz, West Germany",Military - U.S. Army,,Ludwigsburg - Grafenwohr,Boeing Vertol CH-47A (helicopter),37.0,32.0,5.0,37.0,32.0,5.0,0.0
+1971-10-23,,"Near Qui Nhon, South Vietnam",Military - Vietnamese Air Force,,,Douglas C-47,23.0,20.0,3.0,22.0,19.0,3.0,0.0
+1971-11-09,05:40,"Off Livorno, Italy",Military - Royal Air Force,,San Giusto - Sardinia,Lockheed C-130K Hercules,52.0,46.0,6.0,52.0,46.0,6.0,0.0
+1971-11-28,13:30,"Near Hue, South Vietnam",Military - U.S. Army,,Da Nang - Camp Eagle,Boeing Vertol CH-47C,34.0,29.0,5.0,34.0,29.0,5.0,0.0
+1972-05-10,10:25,"Near Gia Dinh, South Vietnam",Military - U.S. Army,,Bien Hoa - Vung Tau,Boeing Vertol CH47A (helicopter),34.0,32.0,2.0,34.0,32.0,2.0,0.0
+1972-05-16,12:30,"Svetlogorsk, Russia",Military - Russian Navy,,Kaliningrad - Kaliningrad,Antonov An-26,9.0,0.0,9.0,9.0,0.0,9.0,25.0
+1972-07-11,16:00,"Near Grytoya, Norway",Military - Royal Norwegian Air Force,,Bardufoss - Bodoe,de Havilland Canada DHC-6 Twin Otter 100,19.0,17.0,2.0,19.0,17.0,2.0,0.0
+1972-07-11,,"Near Quang Tri, South Vietnam",Military - U.S. Marine Corps,,,Sikorsky CH-53D (helicopter),67.0,60.0,7.0,52.0,50.0,2.0,0.0
+1972-08-12,04:00,"Near Soc Trang, South Vietnam",Military - U.S. Air Force,,,Lockheed C-130E,44.0,36.0,8.0,30.0,23.0,7.0,0.0
+1972-08-28,14:30,"Papua, New Guinea",Military - Royal Australian Air Force,,Lae - Port Moresby,de Havilland Canada DHC-4 Caribou,29.0,26.0,3.0,25.0,22.0,3.0,0.0
+1972-09-13,12:00,"Near Dhulikhel, Nepal",Military - Royal Nepalese Air Force,,Panchkhal - Tribuvan,Douglas C-47,31.0,27.0,4.0,31.0,27.0,4.0,0.0
+1973-04-12,14:50,"Moffett AFB, California",Military - U.S. Navy / NASA,,,Lockheed P-3C / Convair CV-990-30A-5,17.0,0.0,17.0,16.0,0.0,16.0,0.0
+1973-08-28,21:45,"Near Huete, Spain",Military - U.S. Air Force,,Athens - Madrid,Lockheed C-141A,25.0,17.0,8.0,24.0,17.0,7.0,0.0
+1974-02-09,17:30,"Near Souda, Crete",Military - West German Air Force,,,Transall C-160D,40.0,35.0,5.0,35.0,30.0,5.0,0.0
+1974-08-18,,"Near Kisangani, Zaire",Military - Zairean Air Force,,Kinshasa - Kisangani,Lockheed C-130H,31.0,24.0,7.0,31.0,24.0,7.0,0.0
+1974-12-12,,"Near Moc Hoa, South Vietnam",Military - Vietnamese Air Force,,,Boeing Vertol CH-47 (helicopter),54.0,53.0,1.0,54.0,53.0,1.0,0.0
+1975-02-09,17:30,"Souda, Crete",Military - Deutsche Luftwaffe,,Hohn - Chania,Transall C-160,40.0,35.0,5.0,40.0,35.0,5.0,0.0
+1975-03-16,13:40,"Near Barito, Argentina",Military - Argentine Air Force,,El Palomar AB - San Carlos de Bariloche,Fokker F-27 Friendship 400M,55.0,50.0,5.0,55.0,50.0,5.0,0.0
+1975-03-20,23:15,"Near Quilcene, Washington",Military - U.S. Air Force,,Clark AFB - Japan,Lockheed C-141A (L.300),16.0,12.0,4.0,16.0,12.0,4.0,0.0
+1975-04-04,16:30,"Saigon, South Vietnam",Military - U.S. Air Force,,Saigon - Clark - Los Angeles,Lockheed C-5A Galaxy,330.0,314.0,16.0,155.0,150.0,5.0,0.0
+1975-05-13,21:15,"Near Sakon Nakhon, Thailand",Military - U.S. Air Force,,Nakhom Phanom AB - Utapao AB,Sikorsky CH-53C (helicopter),23.0,19.0,4.0,23.0,19.0,4.0,0.0
+1975-08-03,19:30,"Off Amapala, Honduras",Military - Nicaraguan Air Force,,Veracruz - Managua,Douglas DC-47,20.0,17.0,3.0,20.0,17.0,3.0,0.0
+1975-11-25,18:50,"Near Bir Lahfan, Egypt",Military - Israel  Air Force,,,Lockheed C-130 Hercules,20.0,11.0,9.0,20.0,11.0,9.0,0.0
+1976-05-09,16:30,"Near Cuneca, Spain",Military - Imperial Iranian Air Force,228,"Terhan, Iran - Madrid, Spain - McGuire AFB, New Jersey",Boeing B-747-131F,17.0,7.0,10.0,17.0,7.0,10.0,0.0
+1976-08-09,12:30,"Moron AFB, Spain 	 Moron AFB, Spain 	 Moron AFB, Spain",Military - Spanish Air Force,,Moron - Canary Islands,Douglas C-54E,32.0,28.0,4.0,12.0,12.0,0.0,0.0
+1976-08-28,12:40,"Near Thorney, England",Military - U.S. Air Force,,McGuire AFB - Mildenhall RAF,Lockheed C-141A (L.300),18.0,4.0,14.0,18.0,4.0,14.0,0.0
+1976-09-03,21:45,"Lajes, Azores, Portugal",Military - Venezuelan Air Force,,Caracas - Praira da Vitoria,Lockheed C-130H,68.0,58.0,10.0,68.0,58.0,10.0,0.0
+1976-09-26,08:30,"Near Alpena, Michigan",Military - U.S. Air Force,,Kenneth Ingalls Sawyer - Oscoda-Wurtsmith,Boeing KC-135A,20.0,15.0,5.0,15.0,12.0,3.0,0.0
+1977-03-03,15:00,"Near Cascina, Italy",Military - Italian Air Force,,Training,Lockheed C-130H,44.0,38.0,6.0,44.0,38.0,6.0,0.0
+1977-04-19,,"Tapa AFB, Estonia",Military - Soviet Air Force,,Parnu - Tapa,Antonov An-24,21.0,15.0,6.0,21.0,15.0,6.0,0.0
+1977-05-10,20:30,"Near Jericho, Jordan",Military - Israel Air Force,,,Sikorsky CH-53D (helicopter),54.0,50.0,4.0,54.0,50.0,4.0,0.0
+1977-06-03,,"Natal, Brazil",Military - Brazilian Air Force,,,Embraer C-95 Bandeirante,18.0,16.0,2.0,18.0,16.0,2.0,0.0
+1977-06-21,22:30,Off Wake Island,Military - U.S. Navy,,Wake-Agana,Lockheed EC-130Q,16.0,0.0,16.0,16.0,0.0,16.0,0.0
+1977-07-14,12:30,"Near Cuangar, Angola",Military - Angolan Air Force,,,Antonov AN-26,30.0,25.0,5.0,30.0,25.0,5.0,0.0
+1977-07-24,19:00,"Near Puerto Montt, Chile",Military - Chilean Air Force,,Punta Arenas - Santiago,Douglas DC-6B,82.0,75.0,7.0,38.0,31.0,7.0,0.0
+1977-07-25,08:00,"Near Yoro, Honduras",Military - Honduran Air Force,,Yoro - Honduran,Douglas C-47,40.0,36.0,4.0,25.0,,,0.0
+1977-09-14,23:48,"Near Albuquerque, New Mexico",Military - U.S. Air Force,,Kirtland AFB - Nellis AFB,Boeing - EC-135K,20.0,0.0,20.0,20.0,0.0,20.0,0.0
+1977-10-21,10:30,"Mindoro, Philippines",Military - U.S. Marine Corps,,,Sikorksky CH-53 (helicopter),37.0,33.0,4.0,24.0,,,0.0
+1977-11-26,02:30,"Near Beziers, France",Military - French Air Force,,Mont-de-Marsan-Hyères,Nord 2501 Noratlas,32.0,28.0,4.0,32.0,28.0,4.0,0.0
+1977-12-11,11:20,"Hierro, Canary Islands",Military - U.S. Navy,,Lajes-Lajes,Lockheed P-3B Orion,13.0,0.0,13.0,13.0,0.0,13.0,0.0
+1978-10-03,,"Near Kuopio, Finland",Military - Finish Air Force,,Kuopio - Helsinki,Douglas C-47A-1-DK,15.0,12.0,3.0,15.0,12.0,3.0,0.0
+1978-11-19,11:00,"Near Leh, India",Military - Indian Air Force,,Chandigarh - Leh,Antonov An-12,77.0,70.0,7.0,77.0,70.0,7.0,1.0
+1979-05-27,,"Off Dakar, Senegal",Military - Mauritanian Air Force,,Bouceif - Dakar,de Havilland Canada DHC-5D Buffalo,12.0,7.0,5.0,12.0,7.0,5.0,0.0
+1979-06-07,11:00,"Near Leh, India",Military - Indian Air Force,,,Hindustan Aeronautics 748-2M,27.0,0.0,27.0,27.0,0.0,27.0,0.0
+1979-09-19,,"Merced, California",Military - U.S. Air Force,,Training,Boeing KC-135A,5.0,0.0,5.0,5.0,0.0,5.0,0.0
+1980-01-24,06:20,"Near Mandalay, Burma",Military - Union of Burma Air Force,,Mandalay - Rangoon,Fairchild FH-227H,44.0,,,43.0,,,0.0
+1980-03-14,15:00,"Near Yenice, Turkey",Military - U.S. Air Force,,Training,Lockheed C-130H,18.0,12.0,6.0,18.0,12.0,6.0,0.0
+1980-04-24,,"Posht-i-Badam, Iran",Military - U.S. Air Force,,,Lockheed EC-130E Hercules,7.0,0.0,7.0,5.0,0.0,5.0,0.0
+1980-09-05,,"Near Montelimar, France",Military - Kuwait Air Force,,,Lockheed L-100-20 Hercules,8.0,0.0,8.0,8.0,0.0,8.0,0.0
+1980-09-14,,"Kindu, Zaire",Military - Force Aérienne Zaïroise,,Kindu-Kinshasa,Lockheed Hercules C-130,36.0,31.0,5.0,36.0,31.0,5.0,0.0
+1980-09-15,00:05,"Near Medina, Saudi Arabia",Military - Royal Saudi Air Force,RSAF453,,Lockheed C-130E,89.0,81.0,8.0,89.0,81.0,8.0,0.0
+1980-09-17,,"Near Kindu, Zaire",Military - Zairean Air Force,,,de Havilland DHC-5 Buffalo,36.0,34.0,2.0,36.0,34.0,2.0,0.0
+1980-11-12,23:53,"Near Cairo, Egypt",Military - U.S. Air Force,,Ramstein AB - Cairo,Lockheed C-141A,13.0,7.0,6.0,13.0,7.0,6.0,0.0
+1981-01-14,09:20,"Ramstein AFB, West Germany",Military - U.S. Air Force,,"Ramstein AFB - Oslo, Norway",Lockheed C-130E Hercules,11.0,2.0,7.0,11.0,2.0,7.0,0.0
+1981-02-07,18:00,"Near Leningrad, Russia",Military - Soviet Navy,,Leningrad-Vladivostok,Tupolev TU-104A,52.0,46.0,6.0,52.0,46.0,6.0,0.0
+1981-02-26,05:25,Off Tabones Island  Philippines,Military - U.S. Air Force,,Training,Lockheed MC-130E-Y,24.0,15.0,9.0,23.0,15.0,8.0,0.0
+1981-03-10,05:00,"Moroni, Comoro Islands",Military - French Naval Aviation,,Moroni-Saint-Denis de la Réunion,Dassault-Breguet Atlantique,18.0,14.0,4.0,18.0,14.0,4.0,0.0
+1981-03-15,24:5,"Shemya AFB, Alaska",Military - U.S. Air Force,,Eielson AFB-Shemya AFB,Boeing RC-135S,24.0,,,6.0,,,0.0
+1981-05-06,10:50,"Near Fredrick, Maryland",Military - U.S. Air Force,,Training,Boeing EC-135N,21.0,3.0,18.0,21.0,3.0,18.0,0.0
+1981-05-29,,"Cairo, Egypt",Military - Egyptian Air Force,,,Lockheed C-130H Hercules,17.0,11.0,6.0,17.0,11.0,6.0,0.0
+1981-08-24,09:21,"Near Zavitinsk, Russia",Aeroflot / Military - Russian Air Force,811,Komsomol'sk-na-Amure - Blagoveshchensk,Antonov AN-24RV / Soviet Air Force TU-16,32.0,27.0,5.0,31.0,26.0,5.0,0.0
+1981-09-18,07:13,"Zeleznogorsk, Russian",Aeroflot /Military - Russian,V-652,Irkutsk - Zeleznogorsk,Yakovlev YAK-40 / Mil Mi-8,40.0,29.0,11.0,40.0,29.0,11.0,0.0
+1981-09-21,,"Nellis AFB, Nevada",Military - U.S. Air Force,USAF672,"Fort Lewis, WA - Indian springs, NV",Lockheed C-130H Hercules,70.0,61.0,9.0,7.0,7.0,0.0,0.0
+1981-09-22,12:00,"Near Babaeski, Turkey",Military - Turkish Air Force,,,Northrop F-5A,0.0,0.0,0.0,0.0,0.0,0.0,40.0
+1981-09-29,19:00,"Tehran, Iran",Military - Iranian Air Force,IIAF552,Ahwaz - Tehran,Lockheed C-130H,80.0,75.0,5.0,60.0,75.0,5.0,20.0
+1982-01-14,,"Near Addis Ababa, Ethiopia",Military - Ethiopian Air Force,,,Antonov AN-26,73.0,67.0,6.0,73.0,67.0,6.0,0.0
+1982-02-03,07:30,"Djibouti, Djbouti",Military - French Air Force,,Training,Nord 2501 Noratlas,35.0,30.0,5.0,35.0,30.0,5.0,0.0
+1982-02-06,15:00,"Island of Cheju, South Korea",Military - Republic of South Korea Air Force,,Seoul - Jeju,Fairchild C-123,53.0,47.0,6.0,53.0,47.0,6.0,0.0
+1982-02-07,,"Near Srinagar, India",Military - Indian Air Force,,Pathankot-Srinagar,Fairchild C-119G,23.0,18.0,5.0,23.0,18.0,5.0,0.0
+1982-03-19,21:10,"Near Woodstock, Illinois",Military - U.S. Air Force,,Sawyer-Chicago,Boeing KC-135C,27.0,23.0,4.0,27.0,23.0,4.0,0.0
+1982-04-13,14:40,"Near Erzurum, Turkey",Military - U.S. Air Force,,Erzurum - Incirlik,Lockheed C-130H,27.0,19.0,8.0,27.0,19.0,8.0,0.0
+1982-05-12,,"Judsonia, Arkansas",Military - U.S. Air Force,,Training,Lockheed C-130E Hercules,7.0,0.0,7.0,7.0,0.0,7.0,0.0
+1982-06-01,14:40,"Near Songnam-si, South Korea",Military - Republic of South Korea Air Force,,Training,Fairchild C-123,53.0,49.0,4.0,53.0,49.0,4.0,0.0
+1982-08-14,09:00,"Near Managua, Nicaragua",Military - Nicaraguan Air Force,,Managua - El Rodeo,Arava 201,20.0,18.0,2.0,20.0,18.0,2.0,0.0
+1982-09-11,12:50,"Near Mannheim, West Germany",Military - U.S. Army,,,Boeing Vertol CH-47C (helicopter),46.0,42.0,4.0,46.0,42.0,4.0,0.0
+1982-12-09,14:30,"Near San Andres de Bocay, Nicaragua",Military - Nicaraguan Air Force,,,Mil Mi-8 (helicopter),88.0,84.0,4.0,84.0,84.0,0.0,0.0
+1983-02-13,,"Fayetteville, North Carolina",Military - U.S. Air Force,,,Lockheed C-130H Hercules,6.0,0.0,6.0,6.0,0.0,6.0,0.0
+1983-04-26,17:37,"Iwakuni AB, Japan",Military - Japan Maritime Self Defense Force,NKJ801,Training,Shin Meiwa PS-1,14.0,0.0,14.0,11.0,0.0,11.0,0.0
+1983-04-30,12:09,"Jacksonville, Florida",Military - United States Navy,,"Jacksonville NAS - Guantanamo Bay, Cuba",Convair CV-340,15.0,9.0,6.0,15.0,98.0,6.0,0.0
+1983-05-05,10:20,"Near Ban Ta Khli, Thailand",Military - Royal Thai Air Force,,,Fairchild C-123K,30.0,24.0,6.0,30.0,24.0,6.0,0.0
+1983-05-06,,"Klyuchi, Russia",Military - Soviet Air Force,,Petropavlovsk-Kamchatsky - Klyuchi,Antonov An-26,37.0,31.0,6.0,33.0,37.0,6.0,0.0
+1983-06-06,12:40,"Off Quemoy, Taiwan",Military - Republic of China Air Force,,Kinmen-Taipei,Fairchild C-199G,47.0,39.0,8.0,47.0,39.0,8.0,0.0
+1983-06-16,04:00,"Kauai, Hawaii",Military - U.S. Navy,,Brabers Point-Barbers Point,Lockheed P-3B Orion,14.0,0.0,14.0,14.0,0.0,14.0,0.0
+1983-06-28,12:10,"Las Vegas, Nevada",Military - U.S. Air Force,,Training,Lockheed C-130H Hercules,6.0,1.0,5.0,6.0,1.0,5.0,0.0
+1984-02-16,,"Near Debre Zelt, Ethiopia",Military - Ethiopian Air Force,,,Antonov AN-12,38.0,33.0,5.0,26.0,,,0.0
+1984-03-24,04:00,"Near Hunghae, South Korea",Military - U.S. Marine Corps,,Pohang - Kannung,Sikorsky CH-53D,29.0,,,29.0,,,0.0
+1984-05-08,,"Elbet Beni Salama, Egypt",Military - Egyptian Air Force,,,McDonnel F-4E Phantom II,2.0,0.0,2.0,2.0,0.0,2.0,19.0
+1984-07-12,,"Sigonella AFB, Italy",Military - U.S. Air Force,,Sigonella - Diego Garcia,Lockheed C-141B,9.0,1.0,8.0,9.0,1.0,8.0,0.0
+1984-09-21,,"Near Sarakchar, Afghanistan",Military - Russian Air Force,,,Antonov AN-12,50.0,45.0,5.0,50.0,45.0,5.0,0.0
+1984-12-19,14:00,"Near Jaen, Peru",Military - Fuerza Aérea del Peru,,,de Havilland Canada DHC-6 Twin Otter 300,21.0,18.0,3.0,21.0,18.0,3.0,0.0
+1985-01-22,09:35,"Off Puerto Castilla, Honduras",Military - U.S. Air Force,,Howard AFB - Trujillo AP,Lockheed C-130A,21.0,16.0,5.0,21.0,16.0,5.0,0.0
+1985-02-25,,"Near Valdez, Alaska",Military - U.S. Air Force,,Eielson-Valdez-Eielson,Boeing RC-135T,3.0,0.0,3.0,3.0,0.0,3.0,0.0
+1985-03-12,,"Fort Hood, Texas",Military - U.S. Air Force,,Training,Lockheed C-130E Hercules,6.0,0.0,6.0,6.0,0.0,6.0,0.0
+1985-05-06,12:50,"Off Tanegashima, Japan",Military - U.S. Marine Corps,,"Iwakuni - Fulemma, Okinawa",CH-53D,17.0,15.0,2.0,17.0,15.0,2.0,0.0
+1985-08-27,,"Beale AFB, California",Military - U.S. Air Force,,Training,Boeing KC-135A,7.0,0.0,7.0,7.0,0.0,7.0,0.0
+1985-09-22,,Afghanistan,Military - Soviet Air Force,,,Antonov AN-12,26.0,22.0,4.0,26.0,22.0,4.0,0.0
+1985-11-15,,"Dothan, Alabama",Military - U.S. Air Force,,Test flight,Convair CV-340,4.0,0.0,4.0,4.0,0.0,4.0,0.0
+1985-11-21,,"Near Sibyak, Indonesia",Military - Indonesian Air Force,,,Lockheed C-130H Hercules,11.0,0.0,11.0,11.0,0.0,11.0,0.0
+1985-12-30,,"Near Dhangadhi, Nepal",Military - Royal Nepalese Air Force,,,Short SC7- Skyvan,25.0,22.0,3.0,25.0,22.0,3.0,0.0
+1986-03-27,,"Bangui, Central African Republic",Military - French Air Force,,,Sepecat Jaguar A,0.0,0.0,0.0,0.0,0.0,0.0,35.0
+1986-03-30,10:15,"Near Pemba, Mozambique",Military - Mozambique Air Force,FAM042,Pemba - Maputo,Antonov AN-26,54.0,51.0,3.0,49.0,46.0,3.0,0.0
+1986-04-02,,"Near Magdalena, New Mexico",Military - U.S. Air Force,,,Lockheed HC-130P Hercules,11.0,0.0,11.0,11.0,0.0,11.0,0.0
+1986-05-01,06:32,"San Salvador, El Salvador",Military - El Salvador Air Force,,San Salvador - Panama City,Douglas DC-6,37.0,33.0,4.0,37.0,33.0,4.0,0.0
+1986-05-18,08:30,"Djibouti, Djibouti",Military - French Naval Aviation,,,Dassault Breguet Atlantique,19.0,14.0,5.0,19.0,14.0,5.0,0.0
+1986-05-24,,"Antananarivo, Madagascar",Military - Armée de l'Air Malgache,,Antananarivo - Antsirabe,Douglas C-47,13.0,0.0,13.0,13.0,0.0,13.0,0.0
+1986-07-10,,"Maputo, Mozambique",Military - Zimbabwe Air Force,,Chimoio - Harare,Douglas C-47A,17.0,13.0,4.0,17.0,13.0,4.0,0.0
+1986-08-14,11:30,"Near Wampusirpi, Honduras",Military - Honduran Air Force,,Tegucigalpa - Duzuna,Lockheed C130D,59.0,53.0,6.0,59.0,53.0,6.0,0.0
+1986-09-09,,"Hopkinsville, Kentucky",Military - U.S. Air Force,,,Lockheed C-130A Hercules,4.0,0.0,4.0,3.0,0.0,3.0,0.0
+1986-10-30,17:00,"Near Managua, Nicaragua",Military - Nicaraguan Air Force,,,Mil Mi-17 (helicopter),23.0,20.0,3.0,21.0,19.0,2.0,0.0
+1986-11-02,19:25,"Near Zahedan, Iran",Military - Iranian Air Force,,Bakhtaran - Zahedan,Lockheed C-130,103.0,96.0,7.0,103.0,96.0,7.0,0.0
+1986-11-25,,"Near Sarowbi, Afghanistan",Military - Afghan Republican Air Force,,,Ilyushin IL-18,40.0,35.0,5.0,40.0,35.0,5.0,0.0
+1987-01-02,16:30,"Off Bata, Equatorial Guinea",Military - Spanish Air Force.,,Bata - Malabo,CASA 212-100,22.0,19.0,3.0,22.0,19.0,3.0,0.0
+1987-01-13,13:30,"Near Asmara, Ethiopia",Military - Ethiopian Air Force,,Asrmara - Addis Ababa,Antonov AN-12,54.0,49.0,5.0,54.0,49.0,5.0,0.0
+1987-02-09,11:30,"Near Khost, Afghanistan",Military - Afghan Republican Air Force,,Khost - Kabul,Antonov AN-26,36.0,30.0,6.0,36.0,30.0,6.0,0.0
+1987-03-13,,"Spokane, Washington",Military - U.S. Air Force,,Training,Boeing KC-135,6.0,0.0,6.0,6.0,0.0,6.0,1.0
+1987-03-30,11:00,"Near Parachinar, Pakistan",Military - Afghan Republican Air Force,,Kaboul-Khost,Antonov AN-26,40.0,36.0,4.0,40.0,36.0,4.0,0.0
+1987-06-18,10:00,"Near Montelillo, Peru",Military - Peruvian Air Force,,Lima - Saposa,Antonov AN-26,46.0,40.0,6.0,46.0,40.0,6.0,0.0
+1987-07-01,,"Fort Bragg AFB, North Carolina",Military - U.S. Air Force,,,Lockheed C-130E Hercules,6.0,0.0,6.0,4.0,0.0,4.0,1.0
+1987-09-08,,"Carajas, Brazil",Military - Brazilian Air Force,,,Hawker Siddeley HS-125-403B,9.0,7.0,2.0,9.0,7.0,2.0,0.0
+1987-10-20,08:15,"Indianapolis, Indiana",Military - U.S. Air Force,,"Pittsburg, PA - Nellis AFB",A-7D Corsair,11.0,0.0,11.0,10.0,0.0,10.0,10.0
+1987-12-14,21:30,"Off Vila dos Remidos, Brazil",Military - Brazilian Air Force,,Recife - Fernando de Noronha,Lockheed C-130H,29.0,23.0,6.0,29.0,23.0,6.0,0.0
+1988-02-01,,Panama,Military - Fuerza Aérea Panamena,,,CASA 212 Aviocar 200,16.0,14.0,2.0,16.0,14.0,2.0,0.0
+1988-04-10,15:10,"Near Mazâr-e Charif, Afghanistan",Military - Afghan Republican Air Force,,Maimana - Mazar,Antonov AN-26,29.0,26.0,3.0,29.0,26.0,3.0,0.0
+1988-04-27,,"Near Tchamulate, Angola",Military - Cuban Air Force,,,Antonov AN-26,29.0,26.0,3.0,29.0,26.0,3.0,0.0
+1988-08-15,,Northern Afghanistan,Military - Afghan Republican Air Force,,Kaboul-Kunduz,Antonov AN-22,39.0,35.0,4.0,39.0,35.0,4.0,0.0
+1988-08-17,16:30,"Bahawalpur, Pakistan",Military - Pakistan Air Force,,Bahawalpur - Islamabad,Lockheed C-130B Hercules,30.0,,,30.0,,,0.0
+1988-10-11,14:20,"Wurtsmith AFB, Michigan",Military - U.S. Air Force,,Sawyer AFB - Wurtsmith AFB,Boeing KC-135A,17.0,0.0,17.0,6.0,0.0,6.0,0.0
+1988-12-10,20:00,Afghanistan,Military - Afghan Republican Air Force,,Kabul - Khost,Antonov AN-32,25.0,,,25.0,,,0.0
+1988-12-11,,"Leninakan, Armenia, USSR",Military - Russian Air Force / Military - Russian Air Force,,,Ilyushin IL-76 / Mi-8 (helicopter),83.0,74.0,9.0,77.0,68.0,9.0,0.0
+1989-01-31,12:10,"Near Abilene, Texas",Military - U.S. Air Force,,Dyess AFB - Hawaii,Boeing KC-135A,19.0,12.0,7.0,19.0,12.0,7.0,0.0
+1989-03-20,07:00,"Pohang, South Korea",Military - U.S. Marine Corps,,,Sikorsky CH-53D,34.0,30.0,4.0,19.0,,,0.0
+1989-07-26,,"Near Chana, Angola",Military - Angolan Air Force,,Luena - Cazombo,Antonov AN-26,48.0,44.0,4.0,42.0,,,0.0
+1989-10-04,06:00,"Perth, Ontario, Canada",Military - U.S. Air Force,,,Boeing KC-135A,4.0,0.0,4.0,4.0,0.0,4.0,0.0
+1989-10-18,,"Nasosny, Russia",Military - Russian Air Force,,,Ilyushin IL-76MD,57.0,50.0,7.0,57.0,50.0,7.0,0.0
+1989-10-26,,"Petropavlovsk, USSR",Military - Soviet Air Force,,,Antonov AN-26,36.0,30.0,6.0,36.0,30.0,6.0,0.0
+1989-11-10,,"Maluti Mountains, Lesotho",Military - Royal Lesotho Defence Force,,Qacha?s-  Nek-Maseru,Casa 212 Aviocar,18.0,16.0,2.0,18.0,16.0,2.0,0.0
+1989-12-01,09:30,"Patuxent, Maryland",Military - U.S. Army,,Fort Belvoir - Patuxent River NAS,CASA 212 Aviocar 200,5.0,0.0,5.0,5.0,0.0,5.0,0.0
+1989-12-21,14:00,"Near Guayaramerin, Bolivia",Military - Bolivian Air Force,,Guayaramerin - Santa Cruz,Lockheed C-130A,28.0,18.0,10.0,24.0,,,0.0
+1990-01-23,07:35,"Near Caracas, Venezuela",Military - Venezuelan Navy,-,Caracas - Puerto Ayancucho,CASA 212-200 Aviocar,25.0,22.0,3.0,25.0,22.0,3.0,0.0
+1990-01-27,17:35,"Near Kinkala, Congo",Military - Congolese Air Force,,Pointe-Noire - Brazzaville,Nord 262C-66,28.0,23.0,5.0,28.0,23.0,5.0,0.0
+1990-02-17,19:30,"Near Ngwerere, Zambia",Military - Zambian Air Force,,M'bala - Likouala,DHC-5 Buffalo,29.0,24.0,5.0,29.0,24.0,5.0,0.0
+1990-03-01,,"Near Meerut, India",Military - Indian Air Force,,,MiG-23,1.0,0.0,1.0,0.0,0.0,0.0,50.0
+1990-03-27,,"Near Kuito, Angola",Military - Angolan Air Force,,Kuito-Huambo,CASA 212 Aviocar 300,25.0,20.0,5.0,25.0,20.0,5.0,0.0
+1990-04-20,,"Near Kinshasa, Zaire",Military - Zairean Air Force,,Kinshasa-Gbadolite,Lockheed C-130H,24.0,18.0,6.0,20.0,,,0.0
+1990-04-30,21:38,"Tarbert, England",Military - Royal Air Force,,Timmins - Moosonee,Avro Shackleton AEW-2,10.0,0.0,10.0,10.0,0.0,10.0,0.0
+1990-05-11,,"Near Wurzburg , Germany",Military - Luftwaffe,,,Transall C-160D,10.0,0.0,10.0,10.0,0.0,10.0,0.0
+1990-07-27,,"Near Maymaneh, Afghanistan",Military - Afghan Republican Air Force,,,Mil Mi-8 (helicopter),30.0,25.0,5.0,30.0,25.0,5.0,0.0
+1990-08-10,,"Near Shindand, Afghanistan",Military - Afghan Republican Air Force,,,Antonov AN-12,83.0,78.0,5.0,83.0,78.0,5.0,0.0
+1990-08-29,00:34,"Near Kaiserslautern, Germany",Military - U.S. Air Force,,Ramstein AB - Rhein-Main AB,Lockheed C-5A,17.0,9.0,8.0,13.0,6.0,7.0,0.0
+1991-01-10,18:00,"Near Paramo Mucuti, Venezuela",Military - Venezuelan Navy,,Caracas - Merida,CASA 212 Aviocar 200,22.0,19.0,3.0,21.0,18.0,3.0,0.0
+1991-02-05,12:51,"Near Nea Ankhialos, Greece",Military - Hellenic Air Force,,Elefsis AB - Volos-Néa Anchialos,Lockheed C-130H,63.0,59.0,4.0,63.0,59.0,4.0,0.0
+1991-02-14,,"Near Taisha, Ecuador",Military - Ecuadorean Air Force,,Macao - Taisha,de Havilland Canada DHC-6 Twin Otter 300,22.0,19.0,3.0,22.0,19.0,3.0,0.0
+1991-03-21,,"Ras-al-Mishab, Saudi Arabia",Military - Royal Saudi Air Force,,Koweit City-Ras-al-Mishab-Dakar,Lockheed C-130H,98.0,92.0,6.0,98.0,92.0,6.0,0.0
+1991-03-25,08:15,"Near Bangalore, India",Military - Indian Air Force,,Yellahanka-Yellahanka,Hindustan Aeronautics 748-2,28.0,25.0,3.0,28.0,25.0,3.0,0.0
+1991-10-05,15:00,"Near Jakarta, Indonesia",Military - Indonesian Air Force,,Jakarta-Bandung,Lockheed C-130H-30,134.0,129.0,5.0,134.0,129.0,5.0,2.0
+1991-10-30,14:30,"Near Point Alert, Ellesmere Island, NWT,Canada",Military - Royal Canadian Air Force,,Edmonton - Point Alert,Lockheed CC-130E,18.0,13.0,5.0,5.0,3.0,2.0,0.0
+1991-11-20,,"Nagoro-Karabak, USSR",Military - Soviet Air Force,,,Mil Mi-8 (helicopter),23.0,20.0,3.0,23.0,20.0,3.0,0.0
+1991-11-29,08:15,"Guaratingueta AB, Brazil",Military - Força Aérea Brasileira,,Brasilla  - Guarantinguerta,Embraer C-95C Bandeirante,16.0,13.0,3.0,16.0,13.0,3.0,0.0
+1992-01-28,16:20,"Near Stepanakert, Azerbaijan",Military - Azerbaijan Air Force,,Agdam - Shusha,Mil Mi-8 (helicopter),47.0,,,47.0,,,0.0
+1992-04-14,,"Nairobi, Kenya",Military - Kenyan Air Force,,Nairobi - Laikipia,de Havilland DHC-5 Buffalo,46.0,42.0,4.0,46.0,42.0,4.0,6.0
+1992-07-05,17:00,"Near Iyakochchi, Sri Lanka",Military - Sri Lanka Air Force,,Colombo - Jaffna,Shaanxi Y-8D,19.0,13.0,6.0,19.0,13.0,6.0,0.0
+1992-07-14,,"Near Nakhichevan, Azerbaijan",Military - Russian Air Force,,Nakhichevan - Rostov,Antonov AN-12V,34.0,27.0,7.0,29.0,24.0,5.0,0.0
+1992-07-14,,"Near Bir Fadl, Yemen",Military - Unified Yemen Air Force,,Nakhichevan - Rostov,Antonov An-12,57.0,50.0,7.0,57.0,50.0,7.0,0.0
+1992-08-27,,"Near Iquitos, Peru",Military - Peruvian Air Force - TANS,,Estrecho - Iquitos,de Havilland Canada DHC-6 Twin Otter 300,41.0,38.0,3.0,8.0,6.0,2.0,0.0
+1992-09-26,18:00,"Near Lagos, Nigeria",Military - Federal Nigerian Air Force,,Lagos - Kaduna,Lockheed C-130H,158.0,154.0,4.0,158.0,154.0,4.0,0.0
+1992-10-21,,"Near Lake Caballochoa, Peru",Military - Peruvian Air Force,,,de Havilland Canada DHC-6 Twin Otter 300,11.0,8.0,3.0,8.0,7.0,1.0,0.0
+1992-11-11,,"Near Tver, Russia",Military - Russian Air Force,,Migalovo AB - Yerevan,Antonov AN-22A,33.0,26.0,7.0,33.0,26.0,7.0,0.0
+1992-11-30,21:20,"Near Harlem, Montana",Military - U.S. Air Force / Military - U.S. Air Force,,,Lockheed C-141B / Lockheed C141B,13.0,0.0,13.0,13.0,0.0,13.0,0.0
+1992-12-22,10:00,"Tripoli, Libya",Libya Arab Airlines / Military -  Libya Air Force,1103,Benghazi - Tripoli,Boeing B-727-2L5 / MiG23UB,157.0,147.0,10.0,157.0,147.0,10.0,0.0
+1993-02-08,14:15,"Near Tehran, Iran",Iran Air Tours  /  Military - Iranian Air Force,,Tehran - Khoram,Tupolev TU-154M / Sukhoi Su-24,133.0,119.0,14.0,133.0,119.0,14.0,0.0
+1993-04-27,23:00,"Off  Libreville, Gambia",Military - Zambian Air Force,,Lusaka - Libreville - Dakar,de Havilland  Canada  DHC-5D Buffalo,30.0,25.0,5.0,30.0,25.0,5.0,0.0
+1993-04-27,,"Near Kholm, Afghanistan",Military - Afghan Republican Air Force,,Kabul - Mazar- Sharif,Antonov AN-32,76.0,71.0,5.0,76.0,71.0,5.0,0.0
+1993-12-15,14:00,"Near Naga, Philippines",Military - Philippine Air Force,,Manila - Naga,Lockheed C-130H,29.0,23.0,6.0,29.0,23.0,6.0,0.0
+1994-03-14,,"Off Malindi, Kenya",Military - U.S. Air Force,,Mombasa - Mogadishu,Lockheed C-130H Hercules,8.0,0.0,8.0,8.0,0.0,8.0,0.0
+1994-03-17,22:30,Near Nag,Military - Iranian Air Force,-,Tehran - Moscow,Lockheed Hercules C-130,32.0,19.0,13.0,32.0,19.0,13.0,0.0
+1994-06-02,18:00,"Near Campbeltown, Scotland",Military - Royal Air Force,,Aldergrove AB - Fort George,Boeing Vertol Chinook HC-2 (helicopter),29.0,25.0,4.0,29.0,25.0,4.0,0.0
+1994-08-05,08:50,"Near Boda, Russia",Military - Russian Air Force,,Dzhida - Boda,Antonov AN-12,47.0,41.0,6.0,47.0,41.0,6.0,0.0
+1994-10-14,22:00,"Near Formoso do Aragala, Brazil",Military - Brazilian Air Force,,Rio de Janeiro - Belem,Lockheed C-130E,21.0,15.0,6.0,21.0,15.0,6.0,0.0
+1995-01-05,20:45,"Isfahan, Iran",Military - Iranian Air Force,,Isfahan - Tehran,Lockheed 1329 Jetstar 8,12.0,6.0,6.0,12.0,6.0,6.0,0.0
+1995-04-29,,"Near Palaly AFB, Sri Lanka",Military - Sri Lanka Air Force,,Anuradhapura - Palaly AFB,Hawker Siddeley HS-748-357/2B SCD,52.0,49.0,3.0,52.0,49.0,3.0,0.0
+1995-05-13,,"Near Boise, Idaho",Military - U.S. Air Force,,"Boise, ID - Colorado Springs, CO",Lockheed C-130E Hercules,6.0,0.0,6.0,6.0,0.0,6.0,0.0
+1995-06-17,,"Near Cuvela, Angola",Military - Angolan Air Force,,Ondjiva - Catumbela,CASA 212-200 Aviocar,48.0,45.0,3.0,48.0,45.0,3.0,0.0
+1995-07-18,,"Near Antananivo, Madagascar",Military - Madagascar Air Force,,Maintirano - Antananivo,Douglas C-47A,34.0,29.0,5.0,34.0,29.0,5.0,0.0
+1995-09-02,,"Toronto, Ontario, Canada",Military - Royal Air Force,,Air Show,British Aerospace Nimrod MR-2P,7.0,0.0,7.0,7.0,0.0,7.0,0.0
+1995-09-12,07:20,"Off Colombo, Sri Lanka",Military - Sri Lanka Air Force,,Ratmalana - Palali base,Antonov AN-32,81.0,76.0,5.0,81.0,76.0,5.0,0.0
+1995-09-22,07:45,"Anchorage, Alaska",Military - U.S. Air Force,27,Anchorage-Elmendorf AFB - Anchorage-Elmendorf AFB,Boeing B-707 (E-3B),24.0,20.0,4.0,24.0,20.0,4.0,0.0
+1995-11-09,21:00,"Near Luyaba, Argentina",Military - Argentine Air Force,,Comodoro Rivadavia - Cordoba,Fokker F-27 Friendship 500,53.0,48.0,5.0,53.0,48.0,5.0,0.0
+1995-11-22,19:00,"Off Jaffna Peninsula , Sri Lanka",Military - Sri Lanka Air Force,,Colombo - Palay AFB,Antonov AN-32,63.0,57.0,6.0,63.0,57.0,6.0,0.0
+1996-01-18,20:20,"Near Kano, Nigeria",Military - Nigerian Air Force,,Lagos - Kano,British Aerospace BAe-125-700B,14.0,10.0,4.0,14.0,10.0,4.0,0.0
+1996-02-26,19:00,"Near Jabal Awliya, Sudan",Military - Sudanese Air Force,,El Obeid - Khartoum,Lockheed C-130H,91.0,85.0,6.0,91.0,85.0,6.0,0.0
+1996-04-03,14:52,"Near Dubrovnik, Croatia",Military - U.S. Air Force,21,Tizla - Dubrovnik,Boeing B-737-T43,35.0,29.0,6.0,35.0,29.0,6.0,0.0
+1996-07-15,18:00,"Near Eindhoven, The Netherlands",Military - Belgian Air Force,,"Villafranca, Italy - Eindhoven AB",Lockheed C-130H,41.0,37.0,4.0,34.0,30.0,4.0,0.0
+1996-08-17,23:48,"Near Jackson Hole, Wyoming",Military - U.S. Air Force,,"Jackson Hole, WY - New York, NY",Lockheed C-130H Hercules,9.0,1.0,8.0,9.0,1.0,8.0,0.0
+1996-11-22,19:30,"Off Cape Mendocino, CA",Military - U.S. Air Force,,"San Diego, CA - Portland, OR",Lockheed HC-130P Hercules,11.0,0.0,11.0,10.0,0.0,10.0,0.0
+1996-11-27,11:54,"Abakan, Siberia, Russia",Military - Russian Air Force,,Abakan - Petropavlosk - Kamchatsky,Ilyushin IL-76MD,23.0,19.0,4.0,23.0,19.0,4.0,0.0
+1996-12-17,,"Tver, Russia",Military - Russian Air Force,,St. Petersburg - Krasnodar,Antonov AN-12,18.0,11.0,7.0,18.0,11.0,7.0,0.0
+1996-12-24,15:00,"Near Nellore, India",Military - Indian Air Force,,Tanbaram AFB - Hyderabad,Hindustan Aeronautics 748-2,22.0,17.0,5.0,22.0,17.0,5.0,0.0
+1997-03-13,18:06,"Near Mashhad, Iran",Military - Iranian Air Force,,Dezful - Mashhad,Lockheed C-130HF,88.0,80.0,8.0,88.0,80.0,8.0,0.0
+1997-07-06,,"Near Saravena, Colombia",Military - Colombian Army,,,Mil Mi-17 (helicopter),29.0,25.0,4.0,25.0,21.0,4.0,0.0
+1997-09-13,17:10,"Off Namibia, Africa",Military - Luftwaffe / Military - USAF,74,Niamey - Windhoek,Tupolev TU-154M / C-141 Starlifter,33.0,23.0,10.0,33.0,23.0,10.0,0.0
+1997-10-10,,"Taipei, Taiwan",Military - Republic of China Air Force,,,Lockheed C-130H Hercules,5.0,0.0,5.0,5.0,0.0,5.0,0.0
+1997-12-05,14:46,"Irkutsk-2, Russia",Military - Russian Air Force,,Irkutsk - Vladivostok,Antonov AN-124-100,23.0,17.0,6.0,23.0,17.0,6.0,44.0
+1997-12-20,,"Tanagra, Greece",Military - Greek Air Force,,Search mission,Lockheed C-130H Hercules,5.0,0.0,5.0,5.0,0.0,5.0,0.0
+1998-01-13,22:30,"Tor Kach, Pakistan",Military - Ariana Afghan Airlines,,Kandahar - Herart,Antonov AN-12BP,51.0,45.0,6.0,51.0,45.0,6.0,0.0
+1998-02-03,15:15,"Near Cavalese, Trento, Italy",Military - U.S. Marine Corps,-,,Grummand EA-6B,2.0,0.0,2.0,0.0,0.0,0.0,20.0
+1998-02-05,12:10,"Near Navafria, Spain",Military - Spanish Air Force,,,CASA 212-S1 Aviocar 100,5.0,0.0,5.0,5.0,0.0,5.0,0.0
+1998-02-12,08:30,"Near Nasir, Sudan",Military - Sudan Air Force,,,Antonov AN-32,57.0,50.0,7.0,27.0,24.0,3.0,0.0
+1998-05-12,19:30,"Near Nema, Mauritania",Military - Mauritanian Air Force,,Nema - Nouakchott,Xian Yunshuji Y-7-100C,42.0,35.0,7.0,39.0,32.0,7.0,0.0
+1998-05-25,10:20,"Near Longtiang, Laos",Military - Lao People's Liberation Army Air Force,,Vientiane - Xiang Khoang,Yakovlev YAK-40,26.0,20.0,6.0,26.0,20.0,6.0,0.0
+1998-07-23,,"Pico de Orizaba, Mexico",Military - Mexican Air Force,,Mexico City - Tuxtla Gutiérrez,Shorts SC-7 Skyvan 3-100,4.0,0.0,4.0,4.0,0.0,4.0,0.0
+1998-09-10,,"Islamabad, Pakistan",Military - Pakistan Air Force,,,Lockheed C-130B Hercules,5.0,0.0,5.0,5.0,0.0,5.0,0.0
+1999-01-13,,"Geilenkirchen, Germany",Military - German Air National Guard,,Refueling,Boeing KC-135E,4.0,0.0,4.0,4.0,0.0,4.0,0.0
+1999-03-07,08:23,"New Delhi, India",Military - Indian Air Force,,Gwalior -  Pokhran - New Delhi,Antonov AN-32 Transport,19.0,15.0,4.0,19.0,15.0,4.0,3.0
+1999-05-24,13:15,"Kuching, Malaysia",Military - Malaysian Air Force,,Training,de Havilland Canada DHC-4A,5.0,0.0,5.0,5.0,0.0,5.0,0.0
+1999-06-03,,"Near Khartoum, Sudan",Military - Sudan Air Force,,Kassala - Khartoum,Antonov 32,50.0,44.0,6.0,50.0,44.0,6.0,0.0
+1999-07-23,03:30,"Near Orito, Colombia",Military - U.S. Army,,,de Havilland Canada DHC-7-102,7.0,0.0,7.0,7.0,0.0,7.0,0.0
+1999-09-17,,"Mt. Hidalgo, Mexico",Military - Mexican Air Force,,Test flight,Lockheed C-130A Hercules,5.0,0.0,5.0,5.0,0.0,5.0,0.0
+1999-10-24,,"San Carlos, Venezuela",Military - Venezuelan Army,,La Carlota - Acarigua,Arava 201,6.0,3.0,3.0,6.0,3.0,3.0,0.0
+1999-12-10,02:50,"Kuwait City, Kuwait",Military - U.S. Air Force,,Kuwait  IA - Kuwait-Ahmed Al-jaber AB,Lockheed C-130H,94.0,86.0,8.0,3.0,3.0,0.0,0.0
+2000-03-22,17:45,"Herreira, Spain",Military - Ejército del Aire,,Sevilla - Herreira,CASA 212-DE Aviocar 200,7.0,0.0,7.0,7.0,0.0,7.0,0.0
+2000-03-30,,"Near Anuradhapura, Sri Lanka",Military - Sri Lankan Air Force,,Jaffna/Palaly AFB - Anuradhapura AFB,Antonov An-26,40.0,36.0,4.0,40.0,36.0,4.0,0.0
+2000-04-19,,"Pepa ,Congo",Military - Centrafricain Airlines,,"Pepa, Congo - Kigali, Rwanda",Antonov AN-8,24.0,20.0,4.0,24.0,20.0,4.0,0.0
+2000-06-27,,"Off Shimano, Japan",Military - Japanese Air Self-Defence Force,,Training,Kawasaki C-1A,5.0,0.0,5.0,5.0,0.0,5.0,0.0
+2000-07-02,10:50,"Off Cagayancillo, Philippines",Military - Philippine Air Force,,Cagayancillo - Puerto Princesa,GAF Nomad N-22C,15.0,11.0,4.0,14.0,10.0,4.0,0.0
+2000-08-06,15:55,"Puerto Montt, Chile",Military - Fuerza Aérea de Chile,-,Santiago - Coihaique,Casa 212-AB10 Aviocar,14.0,10.0,4.0,14.0,10.0,4.0,0.0
+2000-09-02,,"Mount Montezuma, Colombia",Military - Fuerza Aérea Colombiana,,,Douglas C-47,7.0,0.0,7.0,7.0,0.0,7.0,0.0
+2000-09-16,09:25,"Kumarapura, Sri Lanka",Military - Sri Lanka Air Force,,Colombo - Kalmunai,Mil Mi-17,14.0,12.0,2.0,14.0,12.0,2.0,0.0
+2000-10-25,18:15,"Near Batumi, Republic of Georgia",Military - Russian Air Force,,Moscow - Batumi,Ilyushin IL-18D,86.0,75.0,11.0,86.0,75.0,11.0,0.0
+2001-01-04,,"Zheng Zou AB, China",Military - People's Liberation Army,,Training,Shaanxi Yunshuji Y-8/Yunshuji Y-8,16.0,0.0,16.0,16.0,0.0,16.0,6.0
+2001-01-08,,"Near Silimo, Indonesia",Military - Tentara Nasional Indonesia Navy,,Timika - Jayapura,CASA 212-MP Aviocar 200,9.0,0.0,9.0,9.0,0.0,9.0,0.0
+2001-03-03,09:55,"Unadilla, Georgia",Military - Florida Army National Guard,,"Fort Walton Beach, Fl - Oceana Naval Air Station, VA",Short 360,21.0,18.0,3.0,21.0,18.0,3.0,0.0
+2001-05-16,13:15,"Malatya, Turkey",Military - Turkish Air Force,,Diyarbakir - Ankara,CASA CN-235M-10,34.0,28.0,6.0,34.0,28.0,6.0,0.0
+2001-05-22,16:35,"Near Myakotino, Russia",Military - Russian Air Force,,Rzhevsk - Morsansk,Antonov 12MGA,7.0,0.0,7.0,7.0,0.0,7.0,0.0
+2001-12-01,01:43,"Near Novaya Inya , Russia","Military - Russian, cargo",-,Moscow - Bratsk - Anadyr,Ilyushin IL- 76TD,18.0,9.0,9.0,18.0,9.0,9.0,0.0
+2002-01-09,,"Shamsi AFB, Pakistan",Military - U.S. Air Force,,Jacobabad - Shamsi,Lockheed Hercules KC-130R,7.0,0.0,7.0,7.0,0.0,7.0,0.0
+2002-01-27,,"Near Luena, Angola",Military - Angolan  Air Force,-,,Antonov AN-12,40.0,34.0,6.0,5.0,3.0,2.0,0.0
+2002-02-21,20:44,"Lakhta, Russia",Military - Russian Navy,,Sanofov - Lakhta,Antonov AN-26,20.0,12.0,8.0,17.0,12.0,5.0,0.0
+2002-02-22,02:30,"Off Dumaguete, Philippines",Military - U.S. Army,,Basilan - Mactan Island,MH-47 Chinook helicopter,10.0,4.0,6.0,10.0,4.0,6.0,0.0
+2002-06-02,,"Near Ndalatando, Angola",Military - Angolan Armed Forces,,Luanda - demobilization camp,Mi-17,25.0,23.0,2.0,20.0,18.0,2.0,0.0
+2002-06-12,21:24,"Near Gardez, Afghanistan",Military - U.S. Air Force,,,Lockheed MC-130H Hercules,10.0,2.0,8.0,3.0,0.0,3.0,0.0
+2002-07-27,12:45,"Lviv, Ukraine",Military - Ukraine Air Force,,,Sukhoi Su-27,2.0,0.0,2.0,0.0,0.0,0.0,85.0
+2002-08-07,22:00,"Caguas, Puerto Rico",Military - U.S. Air Force,-,Roosevelt Roads NS - Borinquen NGB,Lockheed MC-130H Hercules,10.0,3.0,7.0,10.0,3.0,7.0,0.0
+2002-08-15,12:35,"Kadjuduwa Watta, Sri Lanka",Military - Sri Lanka Air Force,,,Yunshuji Y-8D,5.0,0.0,5.0,5.0,0.0,5.0,0.0
+2002-08-19,,"Khankala, Chechnya",Military - Russian Air Force,,,Mil Mi-26,147.0,142.0,5.0,121.0,121.0,0.0,0.0
+2002-10-01,,"Vasco, India",Military - Indian Navy,,Military exercises,Ilyushin IL-38 / Ilyushin IL-38,12.0,0.0,12.0,12.0,0.0,12.0,5.0
+2002-12-26,11:20,"Curitiba, Brazil",Military - Brazilian Air Force,,Sao Paulo - Porto Alegre,Embraer-110 C-95B Bandeirante,16.0,13.0,3.0,3.0,2.0,1.0,0.0
+2003-02-19,17:30,"Near Shahdad, Iran",Military - Islamic Revolution's Guards Corps,,Zahedan - Kerman,Ilyushin Il-76MD,275.0,257.0,18.0,275.0,257.0,18.0,0.0
+2003-02-20,08:52,"Near Kohat, Pakistan",Military - Pakistan Air Force,-,Islamabad - Kohat,Fokker F-27 Friendship 200,17.0,9.0,8.0,17.0,9.0,8.0,0.0
+2003-06-25,13:00,"Near Rudshour, Iran",Military - Islamic Republic of Iran Air Force,,,Lockheed C-130 Hercules,7.0,0.0,7.0,7.0,0.0,7.0,0.0
+2003-06-30,10:50,"Blida, Algeria",Military - Algerian Air Force,,Training,Lockheed C-130H Hercules,4.0,0.0,4.0,4.0,0.0,4.0,11.0
+2003-09-19,20:00,"Near La Quemada, Mexico",Military - Mexican Air Force,,Mexicali - Santa Lucia,Lockheed C-130A Hercules,6.0,0.0,6.0,6.0,0.0,6.0,0.0
+2003-11-02,09:00,"Near Hasi, Iraq",Military - U.S. Army,-,Fallujah - Baghdad,CH-47 Chinook,36.0,34.0,2.0,15.0,15.0,0.0,0.0
+2003-11-15,18:30,"Mosul, Iraq",Military - U.S. Army,,,UH-60 Black Hawk / UH-60 Black Hawk,22.0,18.0,4.0,17.0,13.0,4.0,0.0
+2003-11-29,15:20,"Boende, Congo",Military - Congolese Air Force,,"Boende, Congo - Kinshasa, Congo",Antonov AN-26,24.0,18.0,6.0,20.0,14.0,6.0,13.0
+2004-02-06,08:01,"Bitonja, Bosnia-Herzegovina",Military - Government of Macedonia,,Skopje - Mostar,Beechcraft Super King Air 200,9.0,7.0,2.0,9.0,7.0,2.0,0.0
+2004-03-16,04:01,"Tonopah, Nevada",Military - United States Air Force,,,Beechcraft 1900C,5.0,4.0,1.0,5.0,4.0,1.0,0.0
+2004-08-21,16:28,"Near Maracay, Venezuela",Military - Venezuelan Air Force,,La Orchila Air Base - Maracay,Shorts 360,25.0,22.0,3.0,25.0,22.0,3.0,0.0
+2004-09-11,11:10,"Off Mount Athos, Greece",Military - Greek Army,,Athens - Mount Athos,CH-47D Chinook,17.0,13.0,4.0,17.0,13.0,4.0,0.0
+2005-01-13,,"Manguipayan, Colombia",Military - Colombian government,,,Black Hawk helicopter,20.0,18.0,2.0,20.0,18.0,2.0,0.0
+2005-01-26,01:20,"Rutbah, Iraq",Military - U.S. Marines,,Ferrying troops,CH53E Sea Stallion,31.0,29.0,2.0,31.0,29.0,2.0,0.0
+2005-01-30,16:30,"Near Al Taji, Iraq",Military - Royal Air Force,,Bagdad - Balad,Lockheed Hercules C.1,10.0,8.0,2.0,10.0,8.0,2.0,0.0
+2005-03-31,20:00,"Near Rovie, Albania",Military - U.S. Air Force,,Training,Lockheed Hercules MC-130H,9.0,0.0,9.0,9.0,0.0,9.0,0.0
+2005-04-28,11:28,"Pisco, Peru",Military - Fuerza Del Peru,,Training,Let 410UVP,13.0,11.0,2.0,13.0,11.0,2.0,0.0
+2005-05-18,13:27,"Mongu, Zambia",Military - Zambia Air Force,,Lusaka - Livingstone - Mongu - Lusaka,Yunshuji Y-12,13.0,8.0,5.0,13.0,8.0,5.0,0.0
+2005-12-06,14:15,"Tehran, Iran",Military - Islamic Republic of Iran Air Force,,Tehran - Bandar Abbas,Lockheed C-130B Hercules,94.0,84.0,10.0,94.0,84.0,10.0,14.0
+2006-01-09,09:30,"Near Orumiyeh, Iran",Military - Iranian Revolutionary Guard Corps Air Force,,Tehran - Orumiyeh,Dassault Falcon 20,11.0,8.0,3.0,11.0,8.0,3.0,0.0
+2006-01-19,19:30,"Near Telkibanya, Hungary",Military - Slovak Air Force,,Pristina - Kosice,Antonov AN-24V,43.0,35.0,8.0,42.0,34.0,8.0,0.0
+2006-04-10,10:00,"Marsabit, Kenya",Military - Kenya Air Force,,Nairobi - Eastleigh AFB,Harbin Yunshuji Y-12-II,17.0,13.0,4.0,14.0,12.0,2.0,0.0
+2006-04-23,04:55,"Kousséri, Cameroon",Military - Lybian Arab Air Force,,Sebha - N'Djamena,Antonov 74TK-200,6.0,0.0,6.0,6.0,0.0,6.0,0.0
+2006-06-03,15:00,"Yaocun, China",Military - Chinese Air Force,,,KJ-2000,40.0,35.0,5.0,40.0,35.0,5.0,0.0
+2006-06-11,18:30,"Abéché, Chad",Military - Chadian Air Force,,N'djamena - Abéché,Lockheed C-130 Hercules,7.0,0.0,7.0,5.0,0.0,5.0,0.0
+2006-09-02,16:30,"Near Kandahar, Afghanistan",Military - Royal Air Force,,,British Aerospace Nimrod MR-2,14.0,12.0,2.0,14.0,12.0,2.0,0.0
+2006-09-11,17:30,"Vladikavkaz, Russia",Military - Russian Army,,Gizel - Khankala,Mi-8 helicopter,15.0,12.0,3.0,12.0,12.0,0.0,0.0
+2006-09-17,10:15,"Vandeikya, Nigeria",Military - Nigerian Air Force,,Abuja - Obudu,Dornier 228,18.0,15.0,3.0,13.0,11.0,2.0,0.0
+2006-10-19,07:30,"Tashkent, Russia",Military - Russian Air Force/Uzbekistan Airways,,Training/Aranchi,Antonov An-2,15.0,13.0,2.0,15.0,13.0,2.0,0.0
+2006-11-27,07:20,"Tehran, Iran",Military - Iranian Revolutionary Guard Corps Air Force,,Tehran - Shiraz,Antonov 74T-200,38.0,32.0,6.0,38.0,32.0,6.0,0.0
+2007-01-20,,"Near Baghdad, Iraq",Military - US Army,,,Sikorsky UH-60L Black Hawk,12.0,10.0,4.0,12.0,10.0,4.0,0.0
+2007-04-27,11:34,"Shatoi, Chechnya",Military - Russian,,,Mi 8,18.0,15.0,3.0,18.0,15.0,3.0,0.0
+2007-05-06,09:10,"Near El-Thamad, Egypt",Military - French Air Force,,El-Gora - Santa Katarina,de Havilland Canada DHC-6 Twin Otter,9.0,5.0,4.0,9.0,5.0,4.0,0.0
+2007-05-24,17:45,"Near Pampa Hermosa, Peru",Military - Peruvian Air Force,,Iquitos - Pucallpa,de Havilland Canada DHC-6 Twin Otter 300,20.0,17.0,3.0,13.0,10.0,3.0,0.0
+2007-08-22,,"Near Kirkuk, Iraq",Military - U.S. Army,,Transporting troops,UH-60 Blackhawk helilcopter,14.0,12.0,2.0,14.0,12.0,2.0,0.0
+2008-01-12,,"Blace, Macedonia",Military - Macedonian Air Force,,"Bosnia - Skopje, Macedonia",Mi-17 Helicopter,11.0,10.0,1.0,11.0,10.0,1.0,0.0
+2008-01-23,19:00,"Miroslawiec, Poland",Military - Polish Air Force,,Warsaw - Miroslawiec,CASA C-295M,20.0,16.0,4.0,20.0,16.0,4.0,0.0
+2008-04-16,14:23,"Off Annobon Island, Equatorial Guinea",Military - Government of Equatorial Guinea,,Bata - Annobon Island,Antonov An-32B,13.0,8.0,5.0,13.0,8.0,5.0,0.0
+2008-05-29,14:13,"Panama City, Panama",Military - Servicio Aereo Nacional,,Tocumen - Colon,Bell UN-1N Huey,12.0,9.0,3.0,11.0,9.0,2.0,0.0
+2008-06-20,,"Bannang Sata, Thailand",Military - Thai Army,,,Bell UH-1N,10.0,8.0,2.0,10.0,8.0,2.0,0.0
+2008-06-26,15:03,"Near Salak Mountain, Indonesia",Military - Indonesian Air Force,,Jakarta - aerial survelliance,CASA NC-212,18.0,13.0,5.0,18.0,13.0,5.0,0.0
+2008-08-06,11:40,"Sunat Tanon, Thailand",Military - Royal Thai Air Force,,Betong - ?,Bell Huey UH-1H,10.0,8.0,2.0,10.0,8.0,2.0,0.0
+2009-04-06,12:30,"Bandung, Indonesia",Military - Indonesian Air Force,,Militiary training,Fokker F-27 Friendship 400M,24.0,18.0,6.0,24.0,18.0,6.0,0.0
+2009-05-03,12:00,"Near El Alto de Rubio, Venezuela",Military - Venezuelan Army,,Patrol,Mi-35,18.0,16.0,2.0,18.0,16.0,2.0,0.0
+2009-05-20,06:30,"Near Madiun, Indonesia",Military - Indonesian Air Force,,Jakarta - Maduin,Lockheed C-130 Hercules,112.0,98.0,14.0,112.0,98.0,14.0,2.0
+2009-06-08,,"State of Arunachal Pradesh, India",Military - Indian Air Force,,Mechuka - Jorhat,Antonov An-32,13.0,6.0,7.0,13.0,6.0,7.0,0.0
+2009-07-03,,"Near,  Peshawar ,  Pakistan",Military - Pakistan Army,,,Mil Mi-17,26.0,24.0,2.0,26.0,24.0,2.0,0.0
+2009-09-08,10:30,"Ugamsk Gorge, South Kazakistan",Military - Kazakhstan border guard service,,Patrol,Mil Mi-8,13.0,,,10.0,,,0.0
+2009-11-01,21:19,"Off Mongokhto, Russia",Military - Russian Navy,,Ferrying,Tupolev Tu-142M3,11.0,0.0,11.0,11.0,0.0,11.0,0.0
+2010-01-28,11:30,"Cotabato City, Philippines",Military - Philippine Air Force,,Cotabato Cty - Zamboanga City,GAF N22B Nomad,8.0,6.0,2.0,8.0,6.0,2.0,1.0
+2010-02-14,,"Near Saada, Yemen",Military - Yemeni Arm,,,Helicopter,11.0,9.0,2.0,11.0,9.0,2.0,2.0
+2010-04-10,10:41,"Smolensk, Russia",Military - Polish Air Force, PLF 101,"Warsaw, Poland - Smolensk Russia",Tupolev 154M,96.0,88.0,8.0,96.0,88.0,8.0,0.0
+2010-07-05,17:40,"Tuzla, Romania",Military - Romainian Air Force,,Tuzla - Tuzla,Antonov AN-2,14.0,10.0,4.0,12.0,,3.0,0.0
+2010-07-28,18:22,"Near Elmendorf AFB, Alaska",Military - US Air Force,,Practice maneuvers,McDonnell Douglas C-17A Globemaster III,4.0,0.0,4.0,4.0,0.0,4.0,0.0
+2011-07-26,09:00,"Near Guelmim, Morocco",Military - Royal Moroccan Air Force,,Dakhla - Guelmim - Kinitra,Lockheed C-130 Hercule,80.0,71.0,9.0,80.0,71.0,9.0,0.0
+2011-09-14,12:00,"Huambo, Angola",Military - FANA Forca Aerea Nacional Angolana,,Huambo - Luanda,Embraer 120ER Brasilia,36.0,34.0,2.0,30.0,30.0,0.0,0.0
+2012-04-30,16:30,"Sabanagrande, Colombia",Military -Fuerza Aerea Colombiana,,Barranquilla - Caucasia,Bell 212,13.0,11.0,2.0,13.0,11.0,2.0,0.0
+2012-06-21,14:45,"Jakarta, Indonesia",Military - Indonesian Air Force,,Training flight,Fokker F-27 Friendship 400M,7.0,0.0,7.0,7.0,0.0,7.0,4.0
+2012-10-07,12:00,"Near Omdurman, Sudan",Military - Sudanese Air Force,,,Antonov An-12BP,22.0,16.0,6.0,15.0,,,0.0
+2012-11-21,,"San'a, Yemen",Military - Yemen Air Force,,Training,Antonov An-26,10.0,0.0,10.0,10.0,0.0,10.0,0.0
+2012-12-05,09:45,"Near Ladysmith, South Africa",Military - South African Air Force,,Pretoria - Mthatha Airport,Douglas C47-TP,11.0,5.0,6.0,11.0,5.0,6.0,0.0
+2012-12-25,18:55,"Near Shymkent, Kazakhstan",Military - Kazakhstan Border Guards,,Astana - Shymkent,Antonov AN-72-100D,27.0,20.0,7.0,27.0,20.0,7.0,0.0
+2013-08-09,08:00,"Mogadishu, Somalia",Military - Ethiopian Air Force,,Dire Dawa - Mogadishu,Antonov An-12,6.0,0.0,6.0,4.0,0.0,4.0,0.0
+2013-11-09,10:30,"Pujungan, Malinau district, Borneo",Military - Indonesian Army,,Tarakan - Malinau,Mil- Mi-17B-5,21.0,13.0,8.0,13.0,7.0,6.0,0.0
+2014-02-11,11:59,"Near Ain Kercha, Algeria",Military - Algerian Air Force,,Tamanarasset - Constatine,Lockheed C-130H-30 Hercules,77.0,73.0,4.0,76.0,72.0,4.0,0.0
+2014-06-14,00:50,"Lugansk, Ukraine",Military - Ukraine Air Force,,Melitopol - Luhansk,Ilyushin 76MD,49.0,40.0,9.0,49.0,40.0,9.0,0.0
+2014-07-07,07:50,"Thach That district, Vietnam",Military - Vietnam People's Army Air Force,,Training,Mil Mi-171,19.0,21.0,2.0,18.0,,,0.0
+2015-06-30,11:48,"Medan, Indonesia",Military - Indonesian Air Force,,"Medan - Tanjung Pinang, Sumatra.",Lockheed C130-B Hercules,122.0,110.0,12.0,122.0,110.0,12.0,19.0
+2015-07-31,,"Near Agustin Codazzi, Colombia",Military - Colombia Air Force,,Palanquero AB -Valledupar,CASA CN-235-100,11.0,0.0,11.0,11.0,0.0,11.0,0.0
+2015-10-02,00:19,"Jalalabad, Afghanistan",Military - U.S. Army,,Jalalabad - Bagram,Lockheed C-130J Hercules,11.0,5.0,6.0,11.0,5.0,6.0,2.0
+2016-03-15,14:30,"Fatima Pastaza, Ecuador",Military - Ecuador Army,,Training,IAI Attava 201 ,22.0,19.0,3.0,22.0,19.0,3.0,0.0
+2017-06-07,13:35,"Off Dawei, Myanmar",Military - Myanmar Air Force,,Myeik - Yangon,Shaanxi Y-8F-200W,122.0,108.0,14.0,122.0,108.0,14.0,0.0
+2018-03-06,14:51,"Latakia, Syria",Military - Russian Air Force,,Kuweires Air Base - Latakia-Khmeimim Air Base,Antonov An-26,39.0,33.0,6.0,39.0,33.0,6.0,0.0
+2018-04-11,08:00,"Boufarik AB, Algeria",Military - Algerian Air Force,,Boufarik AB - Bechar - Tindouf,Ilyushin 76-TD,257.0,247.0,10.0,257.0,247.0,10.0,0.0
+2018-05-02,11:30,"Port Wentworth, Georgia",Military - US Air Force,,Savannah - Tuscon,Lockheed HC-130H Hercules,9.0,0.0,9.0,9.0,0.0,9.0,0.0
+2019-06-03,13:00,"Near Lipo, India",Military - Indian Air Force,, Jorhat-Rowriah - Mechuka,Antonov An-32,13.0,5.0,8.0,13.0,5.0,8.0,0.0
+2019-07-30,02:00,"Rawalpindi, India",Military - Pakistan Army,,Training,Beechcraft B300 King Air,5.0,0.0,5.0,5.0,0.0,5.0,14.0
